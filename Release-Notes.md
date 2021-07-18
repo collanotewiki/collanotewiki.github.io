@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Release Note
-permalink: Pages/Release-Notes/0
+permalink: /pages/Release-Notes/0
 ---
 Release Note page 0 content
 
