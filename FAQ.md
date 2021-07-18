@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /pages/faq/0
+permalink: /pages/FAQ/0
 ---
 **Short Answer:** If you didn't backup the file before deleting/reinstalling Collanote, then **NO**, there is no known method to get those note back.  
 
