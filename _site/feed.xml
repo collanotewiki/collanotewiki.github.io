@@ -1,20 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-19T00:26:08+09:00</updated><id>/feed.xml</id><title type="html">CollaNote WIki</title><subtitle>This site explains features of CollaNote app</subtitle><entry><title type="html">FAQ - Can we get the old notes back after deleting the app and then reinstall it?</title><link href="/delete-CollaNote/" rel="alternate" type="text/html" title="FAQ - Can we get the old notes back after deleting the app and then reinstall it?" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/delete-CollaNote</id><content type="html" xml:base="/delete-CollaNote/">&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the file before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those note back.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-19T03:03:00+09:00</updated><id>/feed.xml</id><title type="html">CollaNote WIkI</title><subtitle>This site explains features of CollaNote app</subtitle><entry><title type="html">FAQ - How to share private notes with someone else</title><link href="/FAQ-How-to-share-private-note-with-someone/" rel="alternate" type="text/html" title="FAQ - How to share private notes with someone else" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/FAQ-How-to-share-private-note-with-someone</id><content type="html" xml:base="/FAQ-How-to-share-private-note-with-someone/">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Step 1: Create a new Note  | In the Start Screen &amp;gt; Right “+”  button &amp;gt; Create new Note &amp;gt; Note name: [SomeName] &amp;gt; Create Note&lt;br /&gt;
+(picture of new note)&lt;/li&gt;
+  &lt;li&gt;Step 2: Invite the person     | In the Note screen &amp;gt; Right side “Friends” button &amp;gt; Input “nickname” &amp;gt; Invite&lt;br /&gt;
+(picture of invite)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Answer: Step 1: Create a new Note | In the Start Screen &amp;gt; Right “+” button &amp;gt; Create new Note &amp;gt; Note name: [SomeName] &amp;gt; Create Note (picture of new note) Step 2: Invite the person | In the Note screen &amp;gt; Right side “Friends” button &amp;gt; Input “nickname” &amp;gt; Invite (picture of invite)</summary></entry><entry><title type="html">FAQ - How to export PDF file</title><link href="/FAQ-How-to-export-PDF-file/" rel="alternate" type="text/html" title="FAQ - How to export PDF file" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/FAQ-How-to-export-PDF-file</id><content type="html" xml:base="/FAQ-How-to-export-PDF-file/">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt; In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note&lt;br /&gt;
+(picture export PDF)&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+Date: July 19, 2021&lt;br /&gt;
+CollNote version: v1.1.13&lt;br /&gt;   
+&lt;/p&gt;</content><author><name></name></author><summary type="html">Answer: In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note (picture export PDF)</summary></entry><entry><title type="html">FAQ - Can we get the old notes back after deleting the app and then reinstall it?</title><link href="/FAQ-Delete-CollaNote/" rel="alternate" type="text/html" title="FAQ - Can we get the old notes back after deleting the app and then reinstall it?" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/FAQ-Delete-CollaNote</id><content type="html" xml:base="/FAQ-Delete-CollaNote/">&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the file before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those note back.&lt;/p&gt;
 
 &lt;p align=&quot;right&quot;&gt;
 Date: July 18, 2021&lt;br /&gt;
 CollNote version: v1.1.13&lt;br /&gt;   
 &lt;/p&gt;
-
-&lt;p&gt;(Picture)
-&lt;img src=&quot;&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the file before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those note back.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Long Answer:&lt;/strong&gt; CollaNote is designed to not store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as default is saving locally).&lt;br /&gt;
-By the menu below, you can choose to save your precious notes on between either &lt;strong&gt;your IPAD&lt;/strong&gt; locally, or &lt;strong&gt;YOUR iCloud&lt;/strong&gt;
-(Image)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Long Answer:&lt;/strong&gt; CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).&lt;br /&gt;
+By the menu below, you can choose to save your precious notes on between either &lt;strong&gt;your IPAD&lt;/strong&gt; locally, or &lt;strong&gt;YOUR iCloud&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table class=&quot;custom-table&quot;&gt;
+&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Menu&lt;/th&gt;
@@ -36,14 +45,19 @@ By the menu below, you can choose to save your precious notes on between either 
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg&quot; alt=&quot;change-CollaNote-store-path&quot; /&gt; &lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Case you choose to save locally:
     &lt;ul&gt;
       &lt;li&gt;Your file is saved in the following path: Files/ColllaNote&lt;/li&gt;
-      &lt;li&gt;This folder will &lt;strong&gt;be removed&lt;/strong&gt; when you uninstall CollaNote.&lt;br /&gt;
-(picture local path)&lt;/li&gt;
+      &lt;li&gt;This folder will &lt;strong&gt;be removed&lt;/strong&gt; when you uninstall CollaNote.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg&quot; alt=&quot;store-CollaNote-local&quot; /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;Case you choose to save on iCloud Drive
     &lt;ul&gt;
       &lt;li&gt;Your file is saved in the following path: iCloud Drive/ColllaNote&lt;/li&gt;
@@ -52,8 +66,14 @@ By the menu below, you can choose to save your precious notes on between either 
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg&quot; alt=&quot;store-CollaNote-iCloudDrive&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;So:
 &lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;And if you don’t back up the files ‘before’ deleting the/re-installing CollaNote, then there is NO WAY to get those note back later&lt;/strong&gt;
-&lt;strong&gt;We don’t store your file on any server, so if you don’t want to lose your note BACKUP those notes BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Short Answer: If you didn’t backup the file before deleting/reinstalling Collanote, then NO, there is no known method to get those note back.</summary></entry><entry><title type="html">Post 1</title><link href="/Post-1/" rel="alternate" type="text/html" title="Post 1" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-1</id><content type="html" xml:base="/Post-1/">&lt;p&gt;This is Post 1&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post 1</summary></entry><entry><title type="html">Post 2</title><link href="/Post-2/" rel="alternate" type="text/html" title="Post 2" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-2</id><content type="html" xml:base="/Post-2/">&lt;p&gt;This is Post2&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post2</summary></entry></feed>
+&lt;strong&gt;And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those note back later&lt;/strong&gt;
+&lt;strong&gt;We don’t store your file on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Short Answer: If you didn’t backup the file before deleting/reinstalling Collanote, then NO, there is no known method to get those note back.</summary></entry><entry><title type="html">FAQ - How to import PDF file</title><link href="/FAQ-How-to-import-PDF-file/" rel="alternate" type="text/html" title="FAQ - How to import PDF file" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="/FAQ-How-to-import-PDF-file/">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt; In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF&lt;br /&gt;
+(picture import-PDF)&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+Date: July 18, 2021&lt;br /&gt;
+CollNote version: v1.1.13&lt;br /&gt;   
+&lt;/p&gt;</content><author><name></name></author><summary type="html">Answer: In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF (picture import-PDF)</summary></entry></feed>

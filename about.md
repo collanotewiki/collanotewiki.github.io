@@ -1,25 +1,22 @@
 ---
 layout: page
-title: Thông Tin
-permalink: /thong-tin/
+title: About
+permalink: /about/
 ---
 
-Đây là trang web cung cấp thông tin về VRChat Việt Nam bằng tiếng Việt dành cho người Việt.
+This site explains features of CollaNote app.
 
-### Mục đích
-Đây là trang web gồm 4 mục đích
-- **Xem VRChat:** hình ảnh, video, ... về VRChat
-- **Chơi VRChat:** cách chơi VRChat
-- **Cộng đồng:** Facebook, discord, map liên quan đến VRChat Việt Nam
-- **Hướng dẫn:** cách làm world, (cách làm avatar)
+### Purpose
+This page has 4 main purpose:
+  - **FAQ:** Provide brief and easy to understand answer for frequent ask questions from our lovely new users  ⸜( ´ ꒳ ´ )⸝♡︎
+  - **Release Note:** Provide Release Note for each new and exciting update of CollaNote (just a copy past from App Store) ＼(^o^)／
+  - **About:** Provide information about our lovely and almighty developer ٩(´꒳´)۶ and the super duper cute moderators (>_0)
+  - **Cute moment:** Store cute moment from CollaNote ⸜( ´ ꒳ ´ )⸝
 
-Phong cách viết các bài hướng dẫn là:
-- Thật đơn giản, ngắn gọn và dễ hiểu
-- Từng bước cụ thể
-- Dễ làm theo
 
-### Người thiết kế
-Thiết kế: Trần Đình Hải Đăng
+### Wiki Contributor
+- Our almighty developer: **Quoc Huy Nguyen**
+- Our lovely moderators (in alphabet): **David, Delin, Dang, James, Jess, Ona, Rohith, Sarah (always remember he/her as Mad)**
 
-### Liên hệ
-[tran_dang0709@yahoo.com](mailto:tran_dang0709@yahoo.com)
+### Wiki designer
+Wiki designer: **Dang Tran.D.H**

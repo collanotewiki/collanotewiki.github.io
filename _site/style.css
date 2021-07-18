@@ -64,13 +64,13 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #F7F7F7;
   font: 18px/1.4 Helvetica, Arial, sans-serif;
   color: #333;
 }
 
 .container4header {
-  background: #fff;
+  background: #F7F7F7;
   margin: auto;
   max-width: 1920x;
   padding: 0px 10px 0px 10px;
@@ -78,7 +78,7 @@ body {
 }
 
 .container4navi {
-  background: #fff;
+  background: #D0D0D0;
   margin: auto;
   max-width: 1920x;
   padding: 0px 10px 0px 110px;

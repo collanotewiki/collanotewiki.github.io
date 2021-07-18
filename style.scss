@@ -22,13 +22,13 @@ head{
 
 }
 body {
-	background: $white;
+	background: #F7F7F7;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container4header {
-  background: $white;
+  background: #F7F7F7;
   margin:  auto;
   max-width: 1920x;
   padding: 0px 10px 0px 10px;
@@ -36,7 +36,7 @@ body {
 }
 
 .container4navi {
-  background: $white;
+  background: #D0D0D0;
   margin:  auto;
   max-width: 1920x;
   padding: 0px 10px 0px 110px;
@@ -262,6 +262,7 @@ img {
   margin: 0px 0px 0px 18px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 20px;
+
 
   @include mobile {
     float: left;
