@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>FAQ – CollaNote WIKI – This site explains features of CollaNote app</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="This site explains features of CollaNote app">
-    <meta property="og:description" content="This site explains features of CollaNote app" />
-    
-    <meta name="author" content="CollaNote WIKI" />
-
-    
-    <meta property="og:title" content="FAQ" />
-    <meta property="twitter:title" content="FAQ" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="CollaNote WIKI - This site explains features of CollaNote app" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <header class="masthead clearfix">
-        <div class="container4header clearfix">
-          <a href="/" class="site-avatar"><img src="" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">CollaNote WIKI</a></h1>
-            <p class="site-description">This site explains features of CollaNote app </p>
-          </div>
-      </div>
-      <div class="container4navi">
-          <div class="nav">
-            <a href="/pages/FAQ/0">FAQ</a>
-            <a href="/pages/Release-Notes/0">Release Notes</a>
-            <a href="/pages/Cute-Moments/0">Cute Moments</a>
-            <a style="padding-left: 40px" href="/about">About</a>
-          </div>
-        </header>
-      </div>
-    </div>
-    <div id="main" role="main" class="container4post">
-      <article class="page">
-
-  <h1>FAQ</h1>
-
-  <div class="entry" class="container4post">
-    <p><strong>FAQ - Can we get the old notes back after deleting the app and then reinstall it?</strong>
+I"�<p><strong>FAQ - Can we get the old notes back after deleting the app and then reinstall it?</strong>
 <strong>Short Answer:</strong> If you didn’t backup the file before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those note back.</p>
 
 <p align="right">
@@ -118,33 +60,4 @@ By the menu below, you can choose to save your precious notes on between either 
 <strong>If you delete the app, all your notes stored locally will be deleted from it</strong><br />
 <strong>And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those note back later</strong>
 <strong>We don’t store your file on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</strong></p>
-
-  </div>
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET
