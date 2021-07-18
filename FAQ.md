@@ -4,7 +4,7 @@ title: FAQ
 permalink: /pages/FAQ/0
 ---
 
-**FAQ - Can we get the old notes back after deleting the app and then reinstall it?**
+**FAQ - Can we get the old notes back after deleting the app and then reinstall it?**  
 **Short Answer:** If you didn't backup the file before deleting/reinstalling Collanote, then **NO**, there is no known method to get those note back.  
 
 <p align="right">
