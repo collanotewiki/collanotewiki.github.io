@@ -15,6 +15,7 @@
 
 html {
   font-size: 100%;
+
 }
 
 head{
@@ -46,6 +47,12 @@ body {
     padding: 0px 10px 0px 10px;
     width: 100%;
   }
+}
+.container4post {
+  margin: 0 auto;
+  max-width: 1570px;
+  padding: 0px 10px;
+  width: 100%;
 }
 
 .container {
@@ -128,6 +135,12 @@ em, i {
 
 strong, b {
   font-weight: bold;
+}
+
+td, th {
+  padding: 3px;
+  // any style you want ...
+  border: 3px solid grey;
 }
 
 img {

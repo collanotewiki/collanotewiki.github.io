@@ -1,0 +1,61 @@
+I"�
+<p align="right">
+Date: July 18, 2021<br />
+CollNote version: v1.1.13<br />   
+</p>
+
+<p>(Picture)
+<img src="" alt="image" /></p>
+
+<p><strong>Short Answer:</strong> If you didn’t backup the file before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those note back.</p>
+
+<p><strong>Long Answer:</strong> CollaNote respect privacy of users, so we don’t store your files or notes on any server.<br />
+You can choose to save your precious notes locally, or on <strong>YOUR</strong> icloud by the menu below<br />
+(Image)</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Menu</td>
+      <td>Selection</td>
+      <td>Comment</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Use iCloud Folder as Home Folder</td>
+      <td>On</td>
+      <td>Your file is stored on your iCloud Drive</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Off</td>
+      <td>Your file is stored locally on your IPAD</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>If you delete the app, all your notes will be deleted from it**<br />
+<strong>And if you don’t back up the files ‘before’ deleting the/re-installing CollaNote, then there is NO WAY to get those note back later</strong>
+<strong>We don’t store your file on any server, so if you don’t want to lose your note BACKUP those notes BEFORE deleting/re-installing CollaNote</strong></p>
+
+<p><img src="https://user-images.githubusercontent.com/46659362/123531782-6fe4a180-d742-11eb-9cec-ffc907006ee3.png" alt="VRChatCreateInstance-2021-06-10_16-26-31" /></p>
+
+<p>Khi gia nhập vào một instance đã được tạo, có thể là thông qua menu World hoặc thông qua tham gia vào World chung với bạn, thì một icon lá cờ nhỏ ở góc trái sẽ hiện thị trên hình của World và cho biết server hiện tại của instance đó.</p>
+
+<p><img src="https://user-images.githubusercontent.com/46659362/123531867-234d9600-d743-11eb-8aef-16bdef8f41d0.png" alt="VRChatJoinInstance-2021-06-16_15-43-07" /></p>
+
+<p>Chọn khu vực truy cập gần bạn hơn để giảm độ lag về âm thanh hoặc/và hành động của nhận vật.</p>
+
+<p>Nếu bạn và bạn của bạn ở khu vực cách xa nhau, hai bạn có thể thử nghiệm nhiều server khác nhau, xem server nào có thể cho mình trải nghiệm tốt hơn và lựa chọn server đó để truy cập. <br />
+Nguồn:
+(tiếng Anh) https://docs.vrchat.com/docs/vrchat-202124</p>
+
+<h2 id="những-bài-cũ-1-bài">Những bài cũ: (1 bài)</h2>
+<ul>
+  <li><a href="https://github.com/trandang0709/VRChatVietNam-wiki/blob/main/region-update.md">GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP</a></li>
+</ul>
+:ET

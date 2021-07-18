@@ -1,40 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-17T04:04:37+09:00</updated><id>/feed.xml</id><title type="html">VRCHAT Việt Nam - Wiki</title><subtitle>Nơi giải thích về VRChat bằng tiếng Việt cho người Việt</subtitle><entry><title type="html">Post 2</title><link href="/Post-2/" rel="alternate" type="text/html" title="Post 2" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-2</id><content type="html" xml:base="/Post-2/">&lt;p&gt;This is Post2&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post2</summary></entry><entry><title type="html">Post 1</title><link href="/Post-1/" rel="alternate" type="text/html" title="Post 1" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-1</id><content type="html" xml:base="/Post-1/">&lt;p&gt;This is Post 1&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post 1</summary></entry><entry><title type="html">GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP - 27 tháng 6 năm 2021</title><link href="/region-update/" rel="alternate" type="text/html" title="GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP - 27 tháng 6 năm 2021" /><published>2021-06-27T00:00:00+09:00</published><updated>2021-06-27T00:00:00+09:00</updated><id>/region-update</id><content type="html" xml:base="/region-update/">&lt;video width=&quot;640&quot; height=&quot;480&quot; controls=&quot;&quot;&gt;
-  &lt;source type=&quot;video/mp4&quot; src=&quot;https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4&quot; /&gt;
-&lt;/video&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-19T00:17:39+09:00</updated><id>/feed.xml</id><title type="html">CollaNote WIki</title><subtitle>This site explains features of CollaNote app</subtitle><entry><title type="html">FAQ - Can we get the old notes back after deleting the app and then reinstall it?</title><link href="/delete-CollaNote/" rel="alternate" type="text/html" title="FAQ - Can we get the old notes back after deleting the app and then reinstall it?" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/delete-CollaNote</id><content type="html" xml:base="/delete-CollaNote/">&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the file before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those note back.&lt;/p&gt;
 
 &lt;p align=&quot;right&quot;&gt;
-Ngày viết: 27 tháng 6 năm 2021&lt;br /&gt;   
-Update ngày: 16 tháng 6 năm 2021&lt;br /&gt;   
-Build 1106&lt;br /&gt;   
-Nguồn ReleaseNote: &lt;a href=&quot;https://docs.vrchat.com/docs/vrchat-202124&quot;&gt;2021.2.4&lt;/a&gt;
+Date: July 18, 2021&lt;br /&gt;
+CollNote version: v1.1.13&lt;br /&gt;   
 &lt;/p&gt;
 
-&lt;p&gt;Để giảm tình trạng lag và cải thiện trải nghiệm chơi, vừa qua VRChat đã cập nhật tính năng mới tên là Region Update (bản cập nhật lựa chọn khu vực truy cập).&lt;/p&gt;
+&lt;p&gt;(Picture)
+&lt;img src=&quot;&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Tính năng mới trong bản cập nhật này, giống với tên gọi của nó, cho phép người chơi lựa chọn server gần với khu vực sống của mình. Điều này cho phép người chơi có thể trải nghiệm chơi tốt hơn, ít lag hơn và dễ gặp được người chung khu vực (Mỹ, Âu, Á) của mình hơn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the file before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those note back.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/46659362/123531974-e3d37980-d743-11eb-928b-8e0466e7b53b.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Long Answer:&lt;/strong&gt; CollaNote is designed to not store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as default is saving locally).&lt;br /&gt;
+By the menu below, you can choose to save your precious notes on between either &lt;strong&gt;your IPAD&lt;/strong&gt; locally, or &lt;strong&gt;YOUR iCloud&lt;/strong&gt;
+(Image)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Trước giờ, chỉ một server mặc định là server US (server Mỹ), thì nay có thêm hai server mới được mở:&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;- EU&lt;/strong&gt; - European Union (server Âu)&lt;br /&gt;
-&lt;strong&gt;- JP&lt;/strong&gt; - Japan (server Á, Nhật Bản)&lt;/p&gt;
+&lt;table class=&quot;custom-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Menu&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Choice&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Comment&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Use iCloud Folder as Home Folder&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;OFF&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;locally on your IPAD&lt;/b&gt;   (default)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;ON&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;on your iCloud Drive&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Khi tạo một instance mới, bạn sẽ có thể chọn khu vực truy cập là &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;US&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;EU&lt;/code&gt; hay &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JP&lt;/code&gt;.&lt;br /&gt;
-Khi bạn đã chọn một lần, VRChat sẽ nhớ lựa chọn đó và áp dụng cho những lần truy cập sau của bạn.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/46659362/123531782-6fe4a180-d742-11eb-9cec-ffc907006ee3.png&quot; alt=&quot;VRChatCreateInstance-2021-06-10_16-26-31&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Khi gia nhập vào một instance đã được tạo, có thể là thông qua menu World hoặc thông qua tham gia vào World chung với bạn, thì một icon lá cờ nhỏ ở góc trái sẽ hiện thị trên hình của World và cho biết server hiện tại của instance đó.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/46659362/123531867-234d9600-d743-11eb-8aef-16bdef8f41d0.png&quot; alt=&quot;VRChatJoinInstance-2021-06-16_15-43-07&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Chọn khu vực truy cập gần bạn hơn để giảm độ lag về âm thanh hoặc/và hành động của nhận vật.&lt;/p&gt;
-
-&lt;p&gt;Nếu bạn và bạn của bạn ở khu vực cách xa nhau, hai bạn có thể thử nghiệm nhiều server khác nhau, xem server nào có thể cho mình trải nghiệm tốt hơn và lựa chọn server đó để truy cập. &lt;br /&gt;
-Nguồn:
-(tiếng Anh) https://docs.vrchat.com/docs/vrchat-202124&lt;/p&gt;
-
-&lt;h2 id=&quot;những-bài-cũ-1-bài&quot;&gt;Những bài cũ: (1 bài)&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/trandang0709/VRChatVietNam-wiki/blob/main/region-update.md&quot;&gt;GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+  &lt;li&gt;Case you choose to save locally:
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: Files/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder will &lt;strong&gt;be removed&lt;/strong&gt; when you uninstall CollaNote.&lt;br /&gt;
+(picture local path)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Case you choose to save on iCloud Drive
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: iCloud Drive/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder &lt;strong&gt;will stay&lt;/strong&gt; even after you uninstall CollaNote.&lt;br /&gt;
+(picture iCloud Drive)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So:
+&lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;And if you don’t back up the files ‘before’ deleting the/re-installing CollaNote, then there is NO WAY to get those note back later&lt;/strong&gt;
+&lt;strong&gt;We don’t store your file on any server, so if you don’t want to lose your note BACKUP those notes BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Short Answer: If you didn’t backup the file before deleting/reinstalling Collanote, then NO, there is no known method to get those note back.</summary></entry><entry><title type="html">Post 1</title><link href="/Post-1/" rel="alternate" type="text/html" title="Post 1" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-1</id><content type="html" xml:base="/Post-1/">&lt;p&gt;This is Post 1&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post 1</summary></entry><entry><title type="html">Post 2</title><link href="/Post-2/" rel="alternate" type="text/html" title="Post 2" /><published>2021-07-14T00:00:00+09:00</published><updated>2021-07-14T00:00:00+09:00</updated><id>/Post-2</id><content type="html" xml:base="/Post-2/">&lt;p&gt;This is Post2&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Post2</summary></entry></feed>

@@ -94,6 +94,13 @@ body {
   }
 }
 
+.container4post {
+  margin: 0 auto;
+  max-width: 1570px;
+  padding: 0px 10px;
+  width: 100%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -178,6 +185,11 @@ em, i {
 
 strong, b {
   font-weight: bold;
+}
+
+td, th {
+  padding: 3px;
+  border: 3px solid grey;
 }
 
 img {
