@@ -312,7 +312,7 @@ img {
   float: left;
   margin: 0px 0px 0px 18px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 19px;
 }
 
 @media screen and (max-width: 640px) {
@@ -325,7 +325,7 @@ img {
 }
 
 .nav a {
-  margin-left: 30px;
+  margin-left: 20px;
   padding: 8px;
   color: #333;
   text-align: left;
@@ -374,6 +374,27 @@ img {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #eee;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://user-images.githubusercontent.com/87580211/126045113-a4399049-6596-48b0-852b-501faa8e00f5.png");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40% 100%;
+}
+
+@media screen and (max-width: 640px) {
+  .bg {
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90% 100%;
+  }
 }
 
 footer {

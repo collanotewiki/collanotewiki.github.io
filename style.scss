@@ -261,7 +261,7 @@ img {
   float: left;
   margin: 0px 0px 0px 18px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 20px;
+  font-size: 19px;
 
 
   @include mobile {
@@ -272,7 +272,7 @@ img {
   }
 
   a {
-    margin-left: 30px;
+    margin-left: 20px;
     padding: 8px;
     color: $darkGray;
     text-align: left;
@@ -328,6 +328,27 @@ img {
   background-color: $lightGray;
 }
 
+.bg {
+    /* The image used */
+    background-image: url("https://user-images.githubusercontent.com/87580211/126045113-a4399049-6596-48b0-852b-501faa8e00f5.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40% 100%;
+
+    @include mobile {
+      height: 100%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 90% 100%;
+     }
+  }
 footer {
   padding: 20px 0;
   text-align: center;
