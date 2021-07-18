@@ -333,12 +333,12 @@ img {
     background-image: url("https://user-images.githubusercontent.com/87580211/126045113-a4399049-6596-48b0-852b-501faa8e00f5.png");
 
     /* Full height */
-    height: 100%;
+    height: 120%;
 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 40% 100%;
+    background-size: 95% 100%;
 
     @include mobile {
       height: 100%;
