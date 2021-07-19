@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FAQ - How to share private notes with someone else
+version: 1.1.13
 ---
 
 **Answer:**

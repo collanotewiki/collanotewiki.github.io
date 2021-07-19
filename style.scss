@@ -154,6 +154,13 @@ img {
 
 .date {
   font-style: italic;
+  text-align: right;
+  color: $gray;
+}
+
+.version {
+  text-align: right;
+  font-style: italic;
   color: $gray;
 }
 
@@ -333,7 +340,7 @@ img {
     background-image: url("https://user-images.githubusercontent.com/87580211/126045113-a4399049-6596-48b0-852b-501faa8e00f5.png");
 
     /* Full height */
-    height: 120%;
+    height: 100%;
 
     /* Center and scale the image nicely */
     background-position: center;
@@ -349,6 +356,23 @@ img {
       background-size: 90% 100%;
      }
   }
+
+  .img_style1 {
+      /* The image used */
+
+      /* Full height */
+      width: 100%;
+
+      /* Center and scale the image nicely */
+
+
+      @include mobile {
+        width: 100%;
+
+        /* Center and scale the image nicely */
+       }
+    }
+
 footer {
   padding: 20px 0;
   text-align: center;
