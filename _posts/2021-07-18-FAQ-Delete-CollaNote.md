@@ -2,7 +2,7 @@
 layout: post
 title: FAQ - Can we get the old notes back after deleting the app and then reinstall it?
 ---
-**Short Answer:** If you didn't backup the file before deleting/reinstalling Collanote, then **NO**, there is no known method to get those note back.  
+**Short Answer:** If you didn't backup the files before deleting/reinstalling Collanote, then **NO**, there is no known method to get those notes back.  
 
 <p align="right">
 Date: July 18, 2021<br>
@@ -12,7 +12,7 @@ CollNote version: v1.1.13<br>
 
 
 
-**Short Answer:** If you didn't backup the file before deleting/reinstalling Collanote, then **NO**, there is no known method to get those note back.  
+**Short Answer:** If you didn't backup the files before deleting/reinstalling Collanote, then **NO**, there is no known method to get those notes back.  
 
 **Long Answer:** CollaNote isn't designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).  
 By the menu below, you can choose to save your precious notes on between either **your IPAD** locally, or **YOUR iCloud**  
@@ -36,5 +36,5 @@ By the menu below, you can choose to save your precious notes on between either 
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg" alt="store-CollaNote-iCloudDrive"></p>
 So:
 **If you delete the app, all your notes stored locally will be deleted from it**  
-**And if you don't back up the files 'before' deleting/re-installing CollaNote, then there is NO WAY to get those note back later**
-**We don't store your file on any server, so if you don't want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote**
+**And if you don't back up the files 'before' deleting/re-installing CollaNote, then there is NO WAY to get those notes back later**
+**We don't store your private files on any server, so if you don't want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote**
