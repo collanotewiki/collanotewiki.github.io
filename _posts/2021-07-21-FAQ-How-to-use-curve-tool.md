@@ -8,3 +8,6 @@ youtubeId: Nwbzvi6e-KA
 **Answer:**
 This is the **curve tool*  
 (curve tool picture)  
+
+Video:<br/>
+<p style="text-align: center;">{% include youtubePlayer.html id=page.youtubeId %}</p>

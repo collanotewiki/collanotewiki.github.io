@@ -418,6 +418,19 @@ img {
   }
 }
 
+.embed-youtube {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+}
+
+.embed-youtube iframe {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;

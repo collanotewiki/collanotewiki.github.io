@@ -357,6 +357,7 @@ img {
      }
   }
 
+//For making image nicer
   .img_style1 {
       /* The image used */
 
@@ -372,6 +373,20 @@ img {
         /* Center and scale the image nicely */
        }
     }
+//For making youtube video nicer
+.embed-youtube {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+}
+
+//For making youtube video nicer
+.embed-youtube iframe {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+  }
 
 footer {
   padding: 20px 0;
