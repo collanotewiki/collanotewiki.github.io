@@ -1,0 +1,94 @@
+I"H<p><strong>Trả lời:</strong>
+Đây là công cụ <strong>lasso tool</strong> - <em>Công cụ chỉnh sửa nhóm</em><br />
+(Hình công cụ Lasso)</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG" alt="Uninstall-CollaNote" /> </p>
+<p>Công cụ Lasso hỗ trợ 2 cách để chọn một nhóm đối tượng:</p>
+<ul>
+  <li>Chọn nhóm theo hình chữ nhật</li>
+  <li>Chọn nhóm theo hình tự do</li>
+</ul>
+
+<p>Hình minh họa chọn nhóm đối tượng bằng công cụ lasso</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote" /> </p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"><strong>Menu Tiếng Việt</strong></th>
+      <th style="text-align: center">Tiếng Anh</th>
+      <th style="text-align: center"><strong>biểu tượng</strong></th>
+      <th style="text-align: center"><strong>Kết quả</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Xóa  nhóm</td>
+      <td style="text-align: center">Delete</td>
+      <td style="text-align: center">lasso-delete</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sao chép  〃</td>
+      <td style="text-align: center">Copy</td>
+      <td style="text-align: center">lasso-copy</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">di chuyển  〃</td>
+      <td style="text-align: center">Move</td>
+      <td style="text-align: center">lasso-move</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cắt   〃</td>
+      <td style="text-align: center">Cut</td>
+      <td style="text-align: center">lasso-cut</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">nhân đôi 〃</td>
+      <td style="text-align: center">Duplicate</td>
+      <td style="text-align: center">lasso-duplicate</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">đổi style (màu, nét dày/mỏng) 〃</td>
+      <td style="text-align: center">Re-style/change style</td>
+      <td style="text-align: center">lasso-restyle</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">đổi kích thước  〃</td>
+      <td style="text-align: center">Re-size</td>
+      <td style="text-align: center">lasso-resize</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sao chép chữ viết tay vào Clipboard</td>
+      <td style="text-align: center">Copy handwriting to Clipboard</td>
+      <td style="text-align: center">lasso-copyhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Sao chép hình ảnh vào Clipboard</td>
+      <td style="text-align: center">Copy image to Clipboard</td>
+      <td style="text-align: center">lasso-copyimage</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Nhận diện chữ viết tay/hình ảnh</td>
+      <td style="text-align: center">Recognition Handwriting</td>
+      <td style="text-align: center">lasso-recognitionhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Video hướng dẫn:<br /></p>
+<p style="text-align: center;"><div class="embed-youtube">
+  <iframe src="https://www.youtube.com/embed/Boa4PKuwHHQ" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+</p>
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+:ET

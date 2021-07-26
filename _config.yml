@@ -6,7 +6,7 @@
 name: CollaNote WIKI
 
 # Short bio or description (displayed in the header)
-description: This site explains features of CollaNote app
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/collanotewikiicon.jpeg
@@ -85,3 +85,14 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+languages: ["en", "vi"]
+language_default: 'en'
+exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404"]
+default_locale_in_subfolder: true
+languageNames:
+  vi: Vietnamese
+  en: English
+collection:
+  pages:
+    output: true

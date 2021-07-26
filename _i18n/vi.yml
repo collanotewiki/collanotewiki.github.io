@@ -1,0 +1,24 @@
+global:
+  vi: Vietnamese
+  en: English
+
+site:
+  name: CollaNote Wiki
+  tagline: CollaNote Wiki
+  description: Trang web nay giải thích những tính năng của CollaNote
+  lang: vi
+  categories: vi posts
+
+page:
+    FAQ: Hỏi đáp
+    ReleaseNotes: Phiên bản
+    CuteMoments: Hình Dễ thương
+    About: Về CollaNote
+    Languages: Languages - Ngôn ngữ
+
+NavigationBar:
+  FAQ: Hỏi đáp
+  ReleaseNotes: Phiên bản
+  CuteMoments: Hình Dễ thương
+  About: Về CollaNote
+  Languages: Languages - Ngôn ngữ

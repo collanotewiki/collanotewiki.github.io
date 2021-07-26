@@ -7,7 +7,7 @@
         margin: 0;
       }
     </style>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {% t site.description %}</title>
 
     {% include meta.html %}
 
@@ -16,9 +16,9 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {% t site.description %}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- CollaNoteWiki version:1.1 -->
   </head>
 
   <body>
@@ -29,18 +29,34 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }} </p>
+            <p class="site-description">{% t site.description %} </p>
           </div>
       </div>
       <div class="container4navi">
           <div class="nav">
-            <a href="{{ site.baseurl }}/pages/FAQ/0">FAQ</a>
-            <a href="{{ site.baseurl }}/pages/Release-Notes/0">Release Notes</a>
-            <a href="{{ site.baseurl }}/pages/Cute-Moments/0">Cute Moments</a>
-            <a style="padding-left: 40px" href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/pages/FAQ/0">{% t NavigationBar.FAQ %}</a>
+            <a href="{{ site.baseurl }}/pages/Release-Notes/0">{% t NavigationBar.ReleaseNotes %}</a>
+            <a href="{{ site.baseurl }}/pages/Cute-Moments/0">{% t NavigationBar.CuteMoments %}</a>
+            <a style="padding-left: 40px" href="{{ site.baseurl }}/about">{% t NavigationBar.About %}</a>
+            <!--Languages switchter -->
+                <div style="padding-left: 40px" class="dropdown">
+                <span>Languages</span>
+                  <div class="dropdown-content">
+                      <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+                      {% for lang in site.languageNames %}
+                      {% if lang[0] == site.lang %} {% continue %} {% endif %}
+                      {% if page.namespace %}
+                      <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+                      {% else %}
+                      <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+                      {% endif %}
+                      {% endfor %}
+                  </div>
+              </div>
           </div>
-        </header>
       </div>
+      </header>
+
     </div>
     <div id="main" role="main" class="container4post">
       {{ content }}
@@ -49,6 +65,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          <!--Not sure what this svg-icon for, just keep it from the source -->
           {% include svg-icons.html %}
         </footer>
       </div>
