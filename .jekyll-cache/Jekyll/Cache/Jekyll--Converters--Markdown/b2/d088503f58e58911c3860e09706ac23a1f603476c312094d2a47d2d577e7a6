@@ -1,0 +1,102 @@
+I"�<div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-use-lasso-tool">FAQ - How to use lasso tool</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
+(Lasso tool picture)</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG" alt="Uninstall-CollaNote" /> </p>
+<p>Lasso tool has 2 way to select a group:</p>
+<ul>
+  <li>Rectangular selection</li>
+  <li>Freeform selection</li>
+</ul>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-use-lasso-tool" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-use-curve-tool">FAQ - How to use curve tool</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+This is the <strong>curve tool</strong></p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG" alt="curve tool picture" /> </p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-use-curve-tool" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-share-private-note-with-someone">FAQ - How to share private notes with someone else</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong></p>
+<ul>
+  <li>Step 1: Create a new Note  | In the Start Screen &gt; Right “+”  button &gt; Create new Note &gt; Note name: [SomeName] &gt; Create Note<br />
+(picture of new note)</li>
+  <li>Step 2: Invite the person     | In the Note screen &gt; Right side “Friends” button &gt; Input “nickname” &gt; Invite<br />
+(picture of invite)</li>
+</ul>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-share-private-note-with-someone" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-export-PDF-file">FAQ - How to export PDF file</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong> In the Note screen &gt; Left “Menu” setting &gt; Most Used &gt; Print,share &amp; backup &gt; Export this Note</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG" alt="picture export-PDF" /> </p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-export-PDF-file" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-import-PDF-file">FAQ - How to import PDF file</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+<strong>Step 1:</strong> In the Start Screen &gt; Right “Menu” setting &gt; Import PDF</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF" /> </p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-import-PDF-file" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/Delete-CollaNote">FAQ - Can we get the old notes back after deleting the app and then reinstall it?</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Short Answer:</strong> If you didn’t backup the files before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those notes back.</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote" /> </p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/Delete-CollaNote" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET

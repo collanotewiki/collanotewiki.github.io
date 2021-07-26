@@ -1,0 +1,27 @@
+global:
+  vi: Vietnamese
+  en: English
+  de: Deutsch
+  ja: Japanese
+
+site:
+  name: CollaNote Wiki
+  tagline: CollaNote Wiki
+  description: Auf dieser Website werden die Funktionen der CollaNote-App erläutert.
+  lang: de
+  categories: de posts
+
+page:
+    FAQ: Fragen und Antworten
+    ReleaseNotes: Versionshinweise
+    CuteMoments: Süße Momente
+    About: Über
+    Languages: Languages - Sprachen
+    404 - Page Not Found: 404 - Page Not Found
+
+NavigationBar:
+  FAQ: Fragen und Antworten
+  ReleaseNotes: Versionshinweise
+  CuteMoments: Süße Momente
+  About: Über
+  Languages: Languages - Sprachen

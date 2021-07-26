@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/en/feed.xml" rel="self" type="application/atom+xml" /><link href="/en/" rel="alternate" type="text/html" hreflang="vi" /><updated>2021-07-26T19:50:06+09:00</updated><id>/en/feed.xml</id><title type="html">CollaNote WIKI</title><entry><title type="html">FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm</title><link href="/en/pages/FAQ/How-to-use-lasso-tool" rel="alternate" type="text/html" title="FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-use-lasso-tool</id><content type="html" xml:base="/en/pages/FAQ/How-to-use-lasso-tool">&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Câu hỏi:&lt;/strong&gt; Công cụ Lasso là gì? Sử dụng thế nào?
-&lt;strong&gt;Trả lời:&lt;/strong&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/en/feed.xml" rel="self" type="application/atom+xml" /><link href="/en/" rel="alternate" type="text/html" hreflang="vi" /><updated>2021-07-27T01:35:16+09:00</updated><id>/en/feed.xml</id><title type="html">CollaNote WIKI</title><entry><title type="html">FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm</title><link href="/en/pages/FAQ/How-to-use-lasso-tool" rel="alternate" type="text/html" title="FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-use-lasso-tool</id><content type="html" xml:base="/en/pages/FAQ/How-to-use-lasso-tool">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;
 Đây là công cụ &lt;strong&gt;lasso tool&lt;/strong&gt; - &lt;em&gt;Công cụ chỉnh sửa nhóm&lt;/em&gt;&lt;br /&gt;
 (Hình công cụ Lasso)&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
@@ -12,6 +9,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Hình minh họa chọn nhóm đối tượng bằng công cụ lasso&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -91,9 +89,9 @@
   &lt;iframe src=&quot;https://www.youtube.com/embed/Boa4PKuwHHQ&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;</content><author><name></name></author><summary type="html">Translate date: July 26, 2021Translator: Đăng</summary></entry><entry><title type="html">FAQ - Cách sử dụng công cụ đường cong - curve tool</title><link href="/en/pages/FAQ/How-to-use-curve-tool" rel="alternate" type="text/html" title="FAQ - Cách sử dụng công cụ đường cong - curve tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-use-curve-tool</id><content type="html" xml:base="/en/pages/FAQ/How-to-use-curve-tool">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
-&lt;strong&gt;Answer:&lt;/strong&gt;
-This is the &lt;strong&gt;curve tool&lt;/strong&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><summary type="html">Trả lời: Đây là công cụ lasso tool - Công cụ chỉnh sửa nhóm (Hình công cụ Lasso) Công cụ Lasso hỗ trợ 2 cách để chọn một nhóm đối tượng: Chọn nhóm theo hình chữ nhật Chọn nhóm theo hình tự do</summary></entry><entry><title type="html">FAQ - Cách sử dụng công cụ đường cong - curve tool</title><link href="/en/pages/FAQ/How-to-use-curve-tool" rel="alternate" type="text/html" title="FAQ - Cách sử dụng công cụ đường cong - curve tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-use-curve-tool</id><content type="html" xml:base="/en/pages/FAQ/How-to-use-curve-tool">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;
+Đây là công cụ &lt;strong&gt;Đường cong&lt;/strong&gt; - &lt;strong&gt;curve tool&lt;/strong&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG&quot; alt=&quot;curve tool picture&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;Video:&lt;br /&gt;&lt;/p&gt;
@@ -101,17 +99,25 @@ This is the &lt;strong&gt;curve tool&lt;/strong&gt;&lt;/p&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/Nwbzvi6e-KA&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Answer: This is the curve tool</summary></entry><entry><title type="html">FAQ - Cách chia sẻ ghi chú với người khác</title><link href="/en/pages/FAQ/How-to-share-private-note-with-someone" rel="alternate" type="text/html" title="FAQ - Cách chia sẻ ghi chú với người khác" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-share-private-note-with-someone</id><content type="html" xml:base="/en/pages/FAQ/How-to-share-private-note-with-someone">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;/p&gt;
+&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><summary type="html">Trả lời: Đây là công cụ Đường cong - curve tool</summary></entry><entry><title type="html">FAQ - Cách chia sẻ ghi chú với người khác</title><link href="/en/pages/FAQ/How-to-share-private-note-with-someone" rel="alternate" type="text/html" title="FAQ - Cách chia sẻ ghi chú với người khác" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-share-private-note-with-someone</id><content type="html" xml:base="/en/pages/FAQ/How-to-share-private-note-with-someone">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Step 1: Create a new Note  | In the Start Screen &amp;gt; Right “+”  button &amp;gt; Create new Note &amp;gt; Note name: [SomeName] &amp;gt; Create Note&lt;br /&gt;
-(picture of new note)&lt;/li&gt;
-  &lt;li&gt;Step 2: Invite the person     | In the Note screen &amp;gt; Right side “Friends” button &amp;gt; Input “nickname” &amp;gt; Invite&lt;br /&gt;
-(picture of invite)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)</summary></entry><entry><title type="html">FAQ - Cách xuất file PDF từ CollaNote</title><link href="/en/pages/FAQ/How-to-export-PDF-file" rel="alternate" type="text/html" title="FAQ - Cách xuất file PDF từ CollaNote" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-export-PDF-file</id><content type="html" xml:base="/en/pages/FAQ/How-to-export-PDF-file">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
-&lt;strong&gt;Answer:&lt;/strong&gt; In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG&quot; alt=&quot;picture export-PDF&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Answer: In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note</summary></entry><entry><title type="html">FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?</title><link href="/en/pages/FAQ/Delete-CollaNote" rel="alternate" type="text/html" title="FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-Delete-CollaNote</id><content type="html" xml:base="/en/pages/FAQ/Delete-CollaNote">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &amp;gt; chọn nút “+” bên phải &amp;gt; tạo ghi chú mới &amp;gt; Tên ghi chú: [GhiChu1] &amp;gt; Thêm ghi chú
+(hình ảnh ghi chú mới)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 2: Mời muốn chia sẻ | ở giao diện ghi chú &amp;gt; chọn nút “bạn bè” tay phải &amp;gt; nhập “Nickname/Email”&amp;gt; Mời
+(hình ảnh mời)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><summary type="html">Trả lời: Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &amp;gt; chọn nút “+” bên phải &amp;gt; tạo ghi chú mới &amp;gt; Tên ghi chú: [GhiChu1] &amp;gt; Thêm ghi chú (hình ảnh ghi chú mới)</summary></entry><entry><title type="html">FAQ - Cách xuất file PDF từ CollaNote</title><link href="/en/pages/FAQ/How-to-export-PDF-file" rel="alternate" type="text/html" title="FAQ - Cách xuất file PDF từ CollaNote" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-export-PDF-file</id><content type="html" xml:base="/en/pages/FAQ/How-to-export-PDF-file">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt; Trong màn hình ghi chú &amp;gt; Menu tay trái &amp;gt; Tab Thường dùng &amp;gt; In và xuất PDF &amp;gt; Xuất PDF này&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG&quot; alt=&quot;picture export-PDF&quot; /&gt; &lt;/p&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><summary type="html">Trả lời: Trong màn hình ghi chú &amp;gt; Menu tay trái &amp;gt; Tab Thường dùng &amp;gt; In và xuất PDF &amp;gt; Xuất PDF này</summary></entry><entry><title type="html">FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?</title><link href="/en/pages/FAQ/Delete-CollaNote" rel="alternate" type="text/html" title="FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-Delete-CollaNote</id><content type="html" xml:base="/en/pages/FAQ/Delete-CollaNote">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
 &lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the files before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those notes back.&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
 
@@ -165,17 +171,17 @@ By the menu below, you can choose to save your precious notes on between either 
 &lt;p&gt;So:
 &lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt;And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later&lt;/strong&gt;
-&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Short Answer: If you didn’t backup the files before deleting/reinstalling Collanote, then NO, there is no known method to get those notes back.</summary></entry><entry><title type="html">FAQ - Cách mở file PDF trên CollaNote</title><link href="/en/pages/FAQ/How-to-import-PDF-file" rel="alternate" type="text/html" title="FAQ - Cách mở file PDF trên CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="/en/pages/FAQ/How-to-import-PDF-file">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
-&lt;strong&gt;Answer:&lt;/strong&gt;
-&lt;strong&gt;Step 1:&lt;/strong&gt; In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF&lt;/p&gt;
+&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Short Answer: If you didn’t backup the files before deleting/reinstalling Collanote, then NO, there is no known method to get those notes back.</summary></entry><entry><title type="html">FAQ - Cách mở file PDF trên CollaNote</title><link href="/en/pages/FAQ/How-to-import-PDF-file" rel="alternate" type="text/html" title="FAQ - Cách mở file PDF trên CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>/en/pages/FAQ/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="/en/pages/FAQ/How-to-import-PDF-file">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;
+&lt;strong&gt;Bước 1:&lt;/strong&gt; Trong giao diện khởi động &amp;gt; Menu tay phải &amp;gt; Nhập file PDF&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG&quot; alt=&quot;picture import-PDF&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Choose the PDF you want to open/import&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Chọn file PDF muốn mở&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG&quot; alt=&quot;picture import-PDF1&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;The PDF should be imported now&lt;/p&gt;
-
+&lt;p&gt;Sau khi bấm lựa chọn, file PDF sẽ tự động được mở&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG&quot; alt=&quot;picture import-PDF2&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Open the imported PDF by tap on it&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG&quot; alt=&quot;picture import-PDF3&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Answer: Step 1: In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Dưới đây là hình ảnh của một file PDF sau khi mở&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG&quot; alt=&quot;picture import-PDF3&quot; /&gt; &lt;/p&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><summary type="html">Trả lời: Bước 1: Trong giao diện khởi động &amp;gt; Menu tay phải &amp;gt; Nhập file PDF</summary></entry></feed>

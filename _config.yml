@@ -86,13 +86,18 @@ exclude:
   - README.md
   - CNAME
 
-languages: ["en", "vi"]
+
+# jekyll-multiple-languages-plugin settings:
+languages: ["en", "vi", "de", "ja"]
 language_default: 'en'
 exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404"]
 default_locale_in_subfolder: true
 languageNames:
   vi: Vietnamese
   en: English
+  de: Deutsch
+  ja: Japanese
+
 collection:
   pages:
     output: true

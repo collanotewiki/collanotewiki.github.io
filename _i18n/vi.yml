@@ -1,6 +1,8 @@
 global:
   vi: Vietnamese
   en: English
+  de: Deutsch
+  ja: Japanese
 
 site:
   name: CollaNote Wiki
@@ -15,6 +17,7 @@ page:
     CuteMoments: Hình Dễ thương
     About: Về CollaNote
     Languages: Languages - Ngôn ngữ
+    404 - Page Not Found: 404 - Page Not Found
 
 NavigationBar:
   FAQ: Hỏi đáp

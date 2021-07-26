@@ -1,0 +1,27 @@
+global:
+  vi: Vietnamese
+  en: English
+  de: Deutsch
+  ja: Japanese
+
+site:
+  name: コラノートウィキ
+  tagline: コラノートウィキ
+  description: 本サイトはCollaNoteアプリの機能について説明します
+  lang: ja
+  categories: ja posts
+
+page:
+    FAQ: よくある質問
+    ReleaseNotes: リリースノート
+    CuteMoments: スクリーンショット
+    About: コラノートについて
+    Languages: Languages -　言語
+    404 - Page Not Found: 404 - Page Not Found
+
+NavigationBar:
+  FAQ: よくある質問
+  ReleaseNotes: リリースノート
+  CuteMoments: スクリーンショット
+  About: コラノートについて
+  Languages: Languages -　言語
