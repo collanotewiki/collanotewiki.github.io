@@ -451,7 +451,7 @@ img {
 }
 
 /* style for the css menu dropdown container */
-.menu {
+.menuLang {
   position: relative;
   display: inline-block;
   margin: 0;
@@ -460,32 +460,23 @@ img {
 }
 
 /* style for the button */
-.menu:before {
-  content: "\2630 \a0 Menu";
-  color: white;
-  padding: 5px 10px;
-  border: 1px solid #555;
-  border-radius: 3px;
-  background: #96305e;
-  background: -moz-linear-gradient(top, #96305e 0%, #822956 10%, #822956 90%, #751749 100%);
-  background: -webkit-linear-gradient(top, #96305e 0%, #822956 10%, #822956 90%, #751749 100%);
-  background: linear-gradient(to bottom, #96305e 0%, #822956 10%, #822956 90%, #751749 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96305e', endColorstr='#751749',GradientType=0 );
+.menuLang:before {
+  content: "\2630 \a0 Languages";
 }
 
-.menu:focus {
+.menuLang:focus {
   pointer-events: none;
 }
 
 /* If :focus detected the dropdown menu is displayed by making it visible */
-.menu:focus .menu-dropdown {
+.menuLang:focus .menuLang-dropdown {
   opacity: 1;
   visibility: visible;
 }
 
 /* style for the dropdown box */
-.menu-dropdown {
-  background-color: #364656;
+.menuLang-dropdown {
+  background-color: #eee;
   width: auto;
   margin: 3px 0 0 0;
   padding: 10px;
@@ -498,11 +489,6 @@ img {
   opacity: 0;
   visibility: hidden;
   transition: visibility 1s;
-  background: #1f8bd3;
-  background: -moz-linear-gradient(top, #1f8bd3 0%, #1b7aba 10%, #1b7aba 90%, #1b61b7 100%);
-  background: -webkit-linear-gradient(top, #1f8bd3 0%, #1b7aba 10%, #1b7aba 90%, #1b61b7 100%);
-  background: linear-gradient(to bottom, #1f8bd3 0%, #1b7aba 10%, #1b7aba 90%, #1b61b7 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f8bd3', endColorstr='#1b61b7',GradientType=0 );
 }
 
 /* style the links in the dropdown */
@@ -511,7 +497,8 @@ img {
   border: none;
   outline: 0;
   display: block;
-  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
   text-decoration: none;
   width: 160px;
   padding: 5px;
