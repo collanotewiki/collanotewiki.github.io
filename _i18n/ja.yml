@@ -25,3 +25,15 @@ NavigationBar:
   CuteMoments: スクリーンショット
   About: コラノートについて
   Languages: Languages -　言語
+
+FAQ:
+  2021-07-18-FAQ-Delete-CollaNote: FAQ - アプリを削除してから再インストールした後、古いメモを取り戻すことはできますか？
+  2021-07-18-FAQ-How-to-import-PDF-file: FAQ - PDFファイルをエクスポートする方法
+  2021-07-19-FAQ-How-to-export-PDF-file: FAQ - PDFファイルをインポートする方法
+  2021-07-19-FAQ-How-to-share-private-note-with-someone: FAQ - プライベートノートを他の人と共有する方法
+  2021-07-21-FAQ-How-to-use-curve-tool: FAQ - カーブツールの使い方
+  2021-07-21-FAQ-How-to-use-lasso-tool: FAQ - ラッソウツールの使い方は？
+
+CuteMoments:
+  Picture-of: 作者 -
+  ArtName: 作名 -

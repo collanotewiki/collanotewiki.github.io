@@ -75,8 +75,9 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+
 
 # Exclude these files from your production _site
 exclude:
@@ -90,7 +91,7 @@ exclude:
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "vi", "de", "ja"]
 language_default: 'en'
-exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404"]
+exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404.html","sitemap.xml"]
 default_locale_in_subfolder: true
 languageNames:
   vi: Vietnamese
@@ -98,6 +99,5 @@ languageNames:
   de: Deutsch
   ja: Japanese
 
-collection:
-  pages:
-    output: true
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem

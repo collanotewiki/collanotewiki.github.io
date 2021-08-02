@@ -1,0 +1,235 @@
+I"(<div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-use-lasso-tool">FAQ - ラッソウツールの使い方は？</a></h1>
+
+      <div class="entry">
+        <p><p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
+(Lasso tool picture)</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG" alt="Uninstall-CollaNote" /> </p>
+<p>Lasso tool has 2 way to select a group:</p>
+<ul>
+  <li>Rectangular selection</li>
+  <li>Freeform selection</li>
+</ul>
+
+<p>picture lasso tool in action</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote" /> </p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"><strong>Menu</strong></th>
+      <th style="text-align: center"><strong>Label</strong></th>
+      <th style="text-align: center"><strong>Result</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Delete group</td>
+      <td style="text-align: center">lasso-delete</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Copy  〃</td>
+      <td style="text-align: center">lasso-copy</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Move  〃</td>
+      <td style="text-align: center">lasso-move</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cut   〃</td>
+      <td style="text-align: center">lasso-cut</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Duplicate 〃</td>
+      <td style="text-align: center">lasso-duplicate</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Re-style/change style  〃</td>
+      <td style="text-align: center">lasso-restyle</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Re-size  〃</td>
+      <td style="text-align: center">lasso-resize</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Copy handwriting to Clipboard</td>
+      <td style="text-align: center">lasso-copyhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Copy image to Clipboard</td>
+      <td style="text-align: center">lasso-copyimage</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Recognition Handwriting</td>
+      <td style="text-align: center">lasso-recognitionhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-use-lasso-tool" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-use-curve-tool">FAQ - カーブツールの使い方</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+This is the <strong>curve tool</strong></p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG" alt="curve tool picture" /> </p>
+
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-use-curve-tool" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-share-private-note-with-someone">FAQ - プライベートノートを他の人と共有する方法</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong></p>
+<ul>
+  <li>Step 1: Create a new Note  | In the Start Screen &gt; Right “+”  button &gt; Create new Note &gt; Note name: [SomeName] &gt; Create Note<br />
+(picture of new note)</li>
+  <li>Step 2: Invite the person     | In the Note screen &gt; Right side “Friends” button &gt; Input “nickname” &gt; Invite<br />
+(picture of invite)</li>
+</ul>
+
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-share-private-note-with-someone" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-export-PDF-file">FAQ - PDFファイルをインポートする方法</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong> In the Note screen &gt; Left “Menu” setting &gt; Most Used &gt; Print,share &amp; backup &gt; Export this Note</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG" alt="picture export-PDF" /> </p>
+
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-export-PDF-file" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-import-PDF-file">FAQ - PDFファイルをエクスポートする方法</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Answer:</strong>
+<strong>Step 1:</strong> In the Start Screen &gt; Right “Menu” setting &gt; Import PDF</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF" /> </p>
+
+<p><strong>Step 2:</strong> Choose the PDF you want to open/import</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG" alt="picture import-PDF1" /> </p>
+
+<p>Tap on the needed PDF, and it should be imported automatically</p>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG" alt="picture import-PDF2" /> </p>
+
+<p><strong>Step 3:</strong> Below is example of an imported PDF</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG" alt="picture import-PDF3" /> </p>
+
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-import-PDF-file" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/Delete-CollaNote">FAQ - アプリを削除してから再インストールした後、古いメモを取り戻すことはできますか？</a></h1>
+
+      <div class="entry">
+        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+<strong>Short Answer:</strong> If you didn’t backup the files before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those notes back.</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote" /> </p>
+
+<p><strong>Long Answer:</strong> CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).<br />
+By the menu below, you can choose to save your precious notes on between either <strong>your IPAD</strong> locally, or <strong>YOUR iCloud</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Menu</th>
+      <th style="text-align: center">Choice</th>
+      <th style="text-align: center">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Use iCloud Folder as Home Folder</td>
+      <td style="text-align: center"><b>OFF</b></td>
+      <td style="text-align: center">Your file is stored  <b>locally on your IPAD</b>   (default)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><b>ON</b></td>
+      <td style="text-align: center">Your file is stored  <b>on your iCloud Drive</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg" alt="change-CollaNote-store-path" /> </p>
+
+<ul>
+  <li>Case you choose to save locally:
+    <ul>
+      <li>Your file is saved in the following path: Files/ColllaNote</li>
+      <li>This folder will <strong>be removed</strong> when you uninstall CollaNote.</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg" alt="store-CollaNote-local" /> </p>
+
+<ul>
+  <li>Case you choose to save on iCloud Drive
+    <ul>
+      <li>Your file is saved in the following path: iCloud Drive/ColllaNote</li>
+      <li>This folder <strong>will stay</strong> even after you uninstall CollaNote.<br />
+(picture iCloud Drive)</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg" alt="store-CollaNote-iCloudDrive" /></p>
+<p>So:
+<strong>If you delete the app, all your notes stored locally will be deleted from it</strong><br />
+<strong>And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later</strong>
+<strong>We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</strong></p>
+
+
+      </div>
+
+      <a href="/ja/pages/FAQ/Delete-CollaNote" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET
