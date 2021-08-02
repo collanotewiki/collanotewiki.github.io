@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html>
   <head>
     <title>page.FAQ – CollaNote WIKI – Trang web nay giải thích những tính năng của CollaNote</title>
@@ -18,6 +19,7 @@
     <meta property="og:title" content="page.FAQ" />
     <meta property="twitter:title" content="page.FAQ" />
     
+
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -44,12 +46,12 @@
         <div class="nav">
           <a href="/vi/pages/FAQ/0">Hỏi đáp</a>
           <a href="/vi/pages/Release-Notes/0">Phiên bản</a>
-          <a href="/vi/pages/Cute-Moments/0">Hình Dễ thương</a>
+          <a href="/vi/pages/CuteMoments/0">Hình Dễ thương</a>
           <a style="padding-left: 40px" href="/vi/about">Về CollaNote</a>
           <!--Languages switchter -->
-            <div tabindex="0" style="padding-left: 40px" class="menu">
+            <div tabindex="0" style="padding-left: 40px" class="menuLang">
               <!--<span>Languages</span> -->
-                <div class="menu-dropdown">
+                <div class="menuLang-dropdown">
                     <a class="active" href="#">Vietnamese</a>
                     
                      
@@ -70,6 +72,14 @@
                     
                 </div>
             </div>
+          <!--Google Search-->
+
+            <div tabindex="0" style="padding-left: 40px" class="menuSearch">
+            <!--<span>search</span> -->
+              <div class="menuSearch-dropdown">
+                  <input type="text" class="input-search" placeholder="Search..">
+              </div>
+            </div>
         </div>
       </div>
       </header>
@@ -84,7 +94,7 @@
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/How-to-use-lasso-tool">FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm</a></h1>
+      <h1><a href="/vi/pages/FAQ/Cach-su-dung-cong-cu-Lasso-Cong-cu-chinh-sua-nhom">FAQ - Cách sử dụng công cụ Lasso - Công cụ chỉnh sửa nhóm</a></h1>
 
       <div class="entry">
         <p><strong>Trả lời:</strong>
@@ -97,79 +107,246 @@
   <li>Chọn nhóm theo hình tự do</li>
 </ul>
 
+<p>Hình minh họa chọn nhóm đối tượng bằng công cụ lasso</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote" /> </p>
+<p><!--more--></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"><strong>Menu Tiếng Việt</strong></th>
+      <th style="text-align: center">Tiếng Anh</th>
+      <th style="text-align: center"><strong>biểu tượng</strong></th>
+      <th style="text-align: center"><strong>Kết quả</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Xóa  nhóm</td>
+      <td style="text-align: center">Delete</td>
+      <td style="text-align: center">lasso-delete</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sao chép  〃</td>
+      <td style="text-align: center">Copy</td>
+      <td style="text-align: center">lasso-copy</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">di chuyển  〃</td>
+      <td style="text-align: center">Move</td>
+      <td style="text-align: center">lasso-move</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cắt   〃</td>
+      <td style="text-align: center">Cut</td>
+      <td style="text-align: center">lasso-cut</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">nhân đôi 〃</td>
+      <td style="text-align: center">Duplicate</td>
+      <td style="text-align: center">lasso-duplicate</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">đổi style (màu, nét dày/mỏng) 〃</td>
+      <td style="text-align: center">Re-style/change style</td>
+      <td style="text-align: center">lasso-restyle</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">đổi kích thước  〃</td>
+      <td style="text-align: center">Re-size</td>
+      <td style="text-align: center">lasso-resize</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sao chép chữ viết tay vào Clipboard</td>
+      <td style="text-align: center">Copy handwriting to Clipboard</td>
+      <td style="text-align: center">lasso-copyhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Sao chép hình ảnh vào Clipboard</td>
+      <td style="text-align: center">Copy image to Clipboard</td>
+      <td style="text-align: center">lasso-copyimage</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Nhận diện chữ viết tay/hình ảnh</td>
+      <td style="text-align: center">Recognition Handwriting</td>
+      <td style="text-align: center">lasso-recognitionhandwriting</td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+
+
       </div>
 
-      <a href="/vi/pages/FAQ/How-to-use-lasso-tool" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Cach-su-dung-cong-cu-Lasso-Cong-cu-chinh-sua-nhom" class="read-more">Read More</a>
     </article>
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/How-to-use-curve-tool">FAQ - Cách sử dụng công cụ đường cong - curve tool</a></h1>
+      <h1><a href="/vi/pages/FAQ/Cach-su-dung-cong-cu-duong-cong-curve-tool">FAQ - Cách sử dụng công cụ đường cong - curve tool</a></h1>
 
       <div class="entry">
-        <p><strong>Trả lời:</strong>
+        
+<p><strong>Trả lời:</strong>
 Đây là công cụ <strong>Đường cong</strong> - <strong>curve tool</strong></p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG" alt="curve tool picture" /> </p>
 
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+
+
       </div>
 
-      <a href="/vi/pages/FAQ/How-to-use-curve-tool" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Cach-su-dung-cong-cu-duong-cong-curve-tool" class="read-more">Read More</a>
     </article>
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/How-to-share-private-note-with-someone">FAQ - Cách chia sẻ ghi chú với người khác</a></h1>
+      <h1><a href="/vi/pages/FAQ/Cach-chia-se-ghi-chu-voi-nguoi-khac">FAQ - Cách chia sẻ ghi chú với người khác</a></h1>
 
       <div class="entry">
-        <p><strong>Trả lời:</strong></p>
+        
+<p><strong>Trả lời:</strong></p>
 <ul>
-  <li>Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &gt; chọn nút “+” bên phải &gt; tạo ghi chú mới &gt; Tên ghi chú: [GhiChu1] &gt; Thêm ghi chú
-(hình ảnh ghi chú mới)</li>
+  <li>
+    <p>Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &gt; chọn nút “+” bên phải &gt; tạo ghi chú mới &gt; Tên ghi chú: [GhiChu1] &gt; Thêm ghi chú
+(hình ảnh ghi chú mới)</p>
+  </li>
+  <li>
+    <p>Bước 2: Mời muốn chia sẻ | ở giao diện ghi chú &gt; chọn nút “bạn bè” tay phải &gt; nhập “Nickname/Email”&gt; Mời
+(hình ảnh mời)</p>
+  </li>
 </ul>
 
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+
+
       </div>
 
-      <a href="/vi/pages/FAQ/How-to-share-private-note-with-someone" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Cach-chia-se-ghi-chu-voi-nguoi-khac" class="read-more">Read More</a>
     </article>
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/How-to-export-PDF-file">FAQ - Cách xuất file PDF từ CollaNote</a></h1>
+      <h1><a href="/vi/pages/FAQ/Cach-xuat-file-PDF-tu-CollaNote">FAQ - Cách xuất file PDF từ CollaNote</a></h1>
 
       <div class="entry">
-        <p><strong>Trả lời:</strong> Trong màn hình ghi chú &gt; Menu tay trái &gt; Tab Thường dùng &gt; In và xuất PDF &gt; Xuất PDF này</p>
+        
+<p><strong>Trả lời:</strong> Trong màn hình ghi chú &gt; Menu tay trái &gt; Tab Thường dùng &gt; In và xuất PDF &gt; Xuất PDF này</p>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG" alt="picture export-PDF" /> </p>
+
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+
 
       </div>
 
-      <a href="/vi/pages/FAQ/How-to-export-PDF-file" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Cach-xuat-file-PDF-tu-CollaNote" class="read-more">Read More</a>
     </article>
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/How-to-import-PDF-file">FAQ - Cách mở file PDF trên CollaNote</a></h1>
+      <h1><a href="/vi/pages/FAQ/Cach-mo-file-PDF-tren-CollaNote">FAQ - Cách mở file PDF trên CollaNote</a></h1>
 
       <div class="entry">
-        <p><strong>Trả lời:</strong>
+        
+<p><strong>Trả lời:</strong>
 <strong>Bước 1:</strong> Trong giao diện khởi động &gt; Menu tay phải &gt; Nhập file PDF</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF" /> </p>
 
+<p><strong>Bước 2:</strong> Chọn file PDF muốn mở</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG" alt="picture import-PDF1" /> </p>
+
+<p>Sau khi bấm lựa chọn, file PDF sẽ tự động được mở</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG" alt="picture import-PDF2" /> </p>
+
+<p><strong>Step 3:</strong> Dưới đây là hình ảnh của một file PDF sau khi mở</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG" alt="picture import-PDF3" /> </p>
+
+<div class="date">Translate date: July 26, 2021<br />Translator: Đăng</div>
+
+
       </div>
 
-      <a href="/vi/pages/FAQ/How-to-import-PDF-file" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Cach-mo-file-PDF-tren-CollaNote" class="read-more">Read More</a>
     </article>
   
     <article class="post">
 
-      <h1><a href="/vi/pages/FAQ/Delete-CollaNote">FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?</a></h1>
+      <h1><a href="/vi/pages/FAQ/Lay-lai-cac-ghi-chu-cu-sau-khi-xoa-va-cai-lai-CollaNote">FAQ - Lấy lại các ghi chú cũ sau khi xóa và cài lại CollaNote ?</a></h1>
 
       <div class="entry">
-        <p>(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)<br />
+        
+<p>(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)<br />
 <strong>Short Answer:</strong> If you didn’t backup the files before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those notes back.</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote" /> </p>
+<!--more-->
+<p><strong>Long Answer:</strong> CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).<br />
+By the menu below, you can choose to save your precious notes on between either <strong>your IPAD</strong> locally, or <strong>YOUR iCloud</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Menu</th>
+      <th style="text-align: center">Choice</th>
+      <th style="text-align: center">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Use iCloud Folder as Home Folder</td>
+      <td style="text-align: center"><b>OFF</b></td>
+      <td style="text-align: center">Your file is stored  <b>locally on your IPAD</b>   (default)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><b>ON</b></td>
+      <td style="text-align: center">Your file is stored  <b>on your iCloud Drive</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg" alt="change-CollaNote-store-path" /> </p>
+
+<ul>
+  <li>Case you choose to save locally:
+    <ul>
+      <li>Your file is saved in the following path: Files/ColllaNote</li>
+      <li>This folder will <strong>be removed</strong> when you uninstall CollaNote.</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg" alt="store-CollaNote-local" /> </p>
+
+<ul>
+  <li>Case you choose to save on iCloud Drive
+    <ul>
+      <li>Your file is saved in the following path: iCloud Drive/ColllaNote</li>
+      <li>This folder <strong>will stay</strong> even after you uninstall CollaNote.<br />
+(picture iCloud Drive)</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg" alt="store-CollaNote-iCloudDrive" /></p>
+<p>So:
+<strong>If you delete the app, all your notes stored locally will be deleted from it</strong><br />
+<strong>And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later</strong>
+<strong>We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</strong></p>
+
 
       </div>
 
-      <a href="/vi/pages/FAQ/Delete-CollaNote" class="read-more">Read More</a>
+      <a href="/vi/pages/FAQ/Lay-lai-cac-ghi-chu-cu-sau-khi-xoa-va-cai-lai-CollaNote" class="read-more">Read More</a>
     </article>
   
 </div>
