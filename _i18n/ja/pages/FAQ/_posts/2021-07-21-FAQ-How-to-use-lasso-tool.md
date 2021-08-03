@@ -10,6 +10,8 @@ Lasso tool has 2 way to select a group:
 picture lasso tool in action  
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote"> </p>  
 
+<!--more-->
+
 | **Menu**                        | **Label**            | **Result**                                                 |
 |:--------------------------------|:--------------------:|:----------------------------------------------------------:|
 | Delete group                    | lasso-delete         | |

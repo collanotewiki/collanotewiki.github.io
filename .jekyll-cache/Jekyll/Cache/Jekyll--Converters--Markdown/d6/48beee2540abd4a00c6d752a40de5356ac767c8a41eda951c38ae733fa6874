@@ -1,11 +1,73 @@
-I"(<div class="posts">
+I"F3<div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/ja/pages/FAQ/How-to-backup-Notes-and-PDF">FAQ - ノートとPDFをバックアップする方法</a></h1>
+
+      <div class="entry">
+
+       <p>  <div>
+
+<p>(このページはまだ翻訳されていません。 以下の英語版をご利用ください)</p>
+
+<p><strong>Answer:</strong></p>
+
+<p>Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you <strong>BACKUP</strong> all of your precious notes to iCloud before proceeding with anything else.</p>
+
+<p>The steps below shows how to backup your precious CollaNotes’ notes and/or PDF in a simple way.</p>
+<ul>
+  <li><strong>Step 1</strong>: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on</li>
+</ul>
+
+<p align="center"> <img width="500" src="/images/FAQimage/backup-1.jpg" alt="backup-1.jpg" /></p>
+
+<ul>
+  <li>
+    <p><strong>Step 2</strong>: Press the <strong>“move”</strong> option</p>
+  </li>
+  <li>
+    <p><strong>Step 3</strong>: Choose the destination folder “iCloud folders” and press “select current folder”.</p>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="/images/FAQimage/backup-2.jpg" alt="backup-2.jpg" /></p>
+
+<p>By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update
+Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install</p>
+
+<p><strong>Notice:</strong> it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files.</p>
+
+<ul>
+  <li><strong>Step 4</strong>: we will recheck to see if all the files are in iCloud folder or not
+from the right Menu &gt; Organising &gt; Use iCloud Folder as Home Folder</li>
+</ul>
+<p align="center"> <img width="500" src="/images/FAQimage/UseIcloudFolder.jpeg" alt="UseIcloudFolder.jpeg" /></p>
+
+<ul>
+  <li>Choose “I understand” as the confirmation appears.</li>
+</ul>
+
+<p>By this step you should see all the files you have moved in step 2</p>
+
+<p>Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote.
+<strong>Remember</strong>, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud.
+You can switch between iCloud storage and in App storage (local) by the switch ““Use iCloud Folder as Home Folder””</p>
+
+
+</div>
+ </p>
+
+      </div>
+
+      <a href="/ja/pages/FAQ/How-to-backup-Notes-and-PDF" class="read-more">Read More</a>
+    </article>
   
     <article class="post">
 
       <h1><a href="/ja/pages/FAQ/How-to-use-lasso-tool">FAQ - ラッソウツールの使い方は？</a></h1>
 
       <div class="entry">
-        <p><p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong>
 This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
 (Lasso tool picture)</p>
@@ -18,6 +80,8 @@ This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
 
 <p>picture lasso tool in action</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote" /> </p>
+
+<!--more-->
 
 <table>
   <thead>
@@ -80,7 +144,8 @@ This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
     </tr>
   </tbody>
 </table>
-</p>
+
+ </p>
 
       </div>
 
@@ -92,11 +157,13 @@ This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
       <h1><a href="/ja/pages/FAQ/How-to-use-curve-tool">FAQ - カーブツールの使い方</a></h1>
 
       <div class="entry">
-        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong>
 This is the <strong>curve tool</strong></p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG" alt="curve tool picture" /> </p>
 
+ </p>
 
       </div>
 
@@ -108,7 +175,8 @@ This is the <strong>curve tool</strong></p>
       <h1><a href="/ja/pages/FAQ/How-to-share-private-note-with-someone">FAQ - プライベートノートを他の人と共有する方法</a></h1>
 
       <div class="entry">
-        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong></p>
 <ul>
   <li>Step 1: Create a new Note  | In the Start Screen &gt; Right “+”  button &gt; Create new Note &gt; Note name: [SomeName] &gt; Create Note<br />
@@ -117,6 +185,7 @@ This is the <strong>curve tool</strong></p>
 (picture of invite)</li>
 </ul>
 
+ </p>
 
       </div>
 
@@ -128,10 +197,12 @@ This is the <strong>curve tool</strong></p>
       <h1><a href="/ja/pages/FAQ/How-to-export-PDF-file">FAQ - PDFファイルをインポートする方法</a></h1>
 
       <div class="entry">
-        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong> In the Note screen &gt; Left “Menu” setting &gt; Most Used &gt; Print,share &amp; backup &gt; Export this Note</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG" alt="picture export-PDF" /> </p>
 
+ </p>
 
       </div>
 
@@ -143,7 +214,8 @@ This is the <strong>curve tool</strong></p>
       <h1><a href="/ja/pages/FAQ/How-to-import-PDF-file">FAQ - PDFファイルをエクスポートする方法</a></h1>
 
       <div class="entry">
-        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong>
 <strong>Step 1:</strong> In the Start Screen &gt; Right “Menu” setting &gt; Import PDF</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF" /> </p>
@@ -158,6 +230,7 @@ This is the <strong>curve tool</strong></p>
 <p><strong>Step 3:</strong> Below is example of an imported PDF</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG" alt="picture import-PDF3" /> </p>
 
+ </p>
 
       </div>
 
@@ -166,10 +239,11 @@ This is the <strong>curve tool</strong></p>
   
     <article class="post">
 
-      <h1><a href="/ja/pages/FAQ/Delete-CollaNote">FAQ - アプリを削除してから再インストールした後、古いメモを取り戻すことはできますか？</a></h1>
+      <h1><a href="/ja/pages/FAQ/Delete-CollaNote"></a></h1>
 
       <div class="entry">
-        <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+
+       <p>  <p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Short Answer:</strong> If you didn’t backup the files before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those notes back.</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote" /> </p>
 
@@ -225,6 +299,7 @@ By the menu below, you can choose to save your precious notes on between either 
 <strong>And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later</strong>
 <strong>We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</strong></p>
 
+ </p>
 
       </div>
 

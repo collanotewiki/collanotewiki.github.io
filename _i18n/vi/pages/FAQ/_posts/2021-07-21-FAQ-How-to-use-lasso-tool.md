@@ -9,6 +9,7 @@ Công cụ Lasso hỗ trợ 2 cách để chọn một nhóm đối tượng:
 Hình minh họa chọn nhóm đối tượng bằng công cụ lasso  
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote"> </p>
 
+<!--more-->
 
 | **Menu Tiếng Việt**                  |Tiếng Anh                      | **biểu tượng**     | **Kết quả**                                                |
 |:-------------------------------------|:-----------------------------:|:------------------:|:----------------------------------------------------------:|

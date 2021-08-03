@@ -1,4 +1,4 @@
-I"<p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
+I""<p>このページはまだ翻訳されていません。 以下の英語版をご利用ください<br />
 <strong>Answer:</strong>
 This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
 (Lasso tool picture)</p>
@@ -11,6 +11,8 @@ This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
 
 <p>picture lasso tool in action</p>
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG" alt="Uninstall-CollaNote" /> </p>
+
+<!--more-->
 
 <table>
   <thead>
@@ -73,4 +75,5 @@ This is the <strong>lasso tool</strong> - <em>The group editing tool</em><br />
     </tr>
   </tbody>
 </table>
+
 :ET

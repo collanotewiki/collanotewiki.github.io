@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ.2021-07-18-FAQ-Delete-CollaNote
+title: FAQ.2021-07-18-FAQ-Can-we-get-the-old-notes-back-after-deleting-the-app-and-then-reinstall-it
 version: 1.1.13
 namespace: FAQ-Can-we-get-the-old-notes-back-after-deleting-the-app-and-then-reinstall-it
 permalink: /pages/FAQ/Delete-CollaNote
