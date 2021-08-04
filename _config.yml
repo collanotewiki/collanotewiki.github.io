@@ -101,3 +101,7 @@ languageNames:
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+collections:
+  pages:
+    output: true

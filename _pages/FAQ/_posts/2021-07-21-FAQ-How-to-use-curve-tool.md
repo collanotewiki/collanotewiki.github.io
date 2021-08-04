@@ -6,5 +6,6 @@ youtubeId: Nwbzvi6e-KA
 namespace: FAQ-How-to-use-curve-tool
 permalink: /pages/FAQ/How-to-use-curve-tool
 permalink_vi: /pages/Hoi-Dap/Cach-su-dung-cong-cu-duong-cong-curve-tool
+category: FAQ
 ---
-{% tf pages/FAQ/_posts/2021-07-21-FAQ-How-to-use-curve-tool.md %}
+{% tf _pages/FAQ/_posts/2021-07-21-FAQ-How-to-use-curve-tool.md %}

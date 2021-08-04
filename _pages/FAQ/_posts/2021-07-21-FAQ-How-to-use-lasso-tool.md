@@ -10,4 +10,4 @@ category: FAQ
 excerpt_separator: "<!--more-->"
 ---
 
-{% tf pages/FAQ/_posts/2021-07-21-FAQ-How-to-use-lasso-tool.md %}
+{% tf _pages/FAQ/_posts/2021-07-21-FAQ-How-to-use-lasso-tool.md %}

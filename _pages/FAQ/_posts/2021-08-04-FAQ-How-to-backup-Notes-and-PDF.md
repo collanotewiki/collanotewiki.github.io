@@ -12,6 +12,6 @@ excerpt_separator: "<!--more-->"
 
 <div>
 
-{% tf pages/FAQ/_posts/2021-08-04-FAQ-How-to-backup-Notes-and-PDF.md %}
+{% tf _pages/FAQ/_posts/2021-08-04-FAQ-How-to-backup-Notes-and-PDF.md %}
 
 </div>
