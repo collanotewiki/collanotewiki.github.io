@@ -1,1 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/en/feed.xml" rel="self" type="application/atom+xml" /><link href="/en/" rel="alternate" type="text/html" hreflang="de" /><updated>2021-08-04T14:48:47+09:00</updated><id>/en/feed.xml</id><title type="html">CollaNote WIKI</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://collanotewiki.github.io//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://collanotewiki.github.io//en/" rel="alternate" type="text/html" hreflang="de" /><updated>2021-08-04T19:10:29+09:00</updated><id>https://collanotewiki.github.io//en/feed.xml</id><title type="html">CollaNote WIKI</title><entry><title type="html">FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-backup-Notes-and-PDF" rel="alternate" type="text/html" title="FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF" /><published>2021-08-04T00:00:00+09:00</published><updated>2021-08-04T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-backup-Notes-and-PDF</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-backup-Notes-and-PDF">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you &lt;strong&gt;BACKUP&lt;/strong&gt; all of your precious notes to iCloud before proceeding with anything else.&lt;/p&gt;
+
+&lt;p&gt;The steps below shows how to backup your precious CollaNotes’ notes and/or PDF in a simple way.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/backup-1.jpg&quot; alt=&quot;backup-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Press the &lt;strong&gt;“move”&lt;/strong&gt; option&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: Choose the destination folder “iCloud folders” and press “select current folder”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/backup-2.jpg&quot; alt=&quot;backup-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update
+Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notice:&lt;/strong&gt; it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: we will recheck to see if all the files are in iCloud folder or not
+from the right Menu &amp;gt; Organising &amp;gt; Use iCloud Folder as Home Folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/UseIcloudFolder.jpeg&quot; alt=&quot;UseIcloudFolder.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choose “I understand” as the confirmation appears.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By this step you should see all the files you have moved in step 2&lt;/p&gt;
+
+&lt;p&gt;Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote.
+&lt;strong&gt;Remember&lt;/strong&gt;, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud.
+You can switch between iCloud storage and in App storage (local) by the switch ““Use iCloud Folder as Home Folder””&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: Before you uninstall or re-install CollaNote or Updating a big update in CollaNote, make sure that you BACKUP all of your precious notes to iCloud before proceeding with anything else. The steps below shows how to backup your precious CollaNotes’ notes and/or PDF in a simple way. Step 1: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on Step 2: Press the “move” option Step 3: Choose the destination folder “iCloud folders” and press “select current folder”. By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install Notice: it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files. Step 4: we will recheck to see if all the files are in iCloud folder or not from the right Menu &amp;gt; Organising &amp;gt; Use iCloud Folder as Home Folder Choose “I understand” as the confirmation appears. By this step you should see all the files you have moved in step 2 Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote. Remember, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud. You can switch between iCloud storage and in App storage (local) by the switch ““Use iCloud Folder as Home Folder””</summary></entry><entry><title type="html">FAQ.2021-07-21-FAQ-How-to-use-curve-tool</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-use-curve-tool" rel="alternate" type="text/html" title="FAQ.2021-07-21-FAQ-How-to-use-curve-tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-use-curve-tool</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-use-curve-tool">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;br /&gt;
+&lt;strong&gt;Answer:&lt;/strong&gt;
+This is the &lt;strong&gt;curve tool&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG&quot; alt=&quot;curve tool picture&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: This is the curve tool</summary></entry><entry><title type="html">FAQ.2021-07-21-FAQ-How-to-use-lasso-tool</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-use-lasso-tool" rel="alternate" type="text/html" title="FAQ.2021-07-21-FAQ-How-to-use-lasso-tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-use-lasso-tool</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-use-lasso-tool">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)
+&lt;strong&gt;Answer:&lt;/strong&gt;
+This is the &lt;strong&gt;lasso tool&lt;/strong&gt; - &lt;em&gt;The group editing tool&lt;/em&gt;
+(Lasso tool picture)&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;Lasso tool has 2 way to select a group:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rectangular selection&lt;/li&gt;
+  &lt;li&gt;Freeform selection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;picture lasso tool in action&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Menu&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Label&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Delete group&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-delete&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Copy  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copy&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Move  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-move&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Cut   〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-cut&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Duplicate 〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-duplicate&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Re-style/change style  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-restyle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Re-size  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-resize&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Copy handwriting to Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copyhandwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Copy image to Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copyimage&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Recognition Handwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-recognitionhandwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: This is the lasso tool - The group editing tool (Lasso tool picture) Lasso tool has 2 way to select a group: Rectangular selection Freeform selection picture lasso tool in action Menu Label Result Delete group lasso-delete   Copy 〃 lasso-copy   Move 〃 lasso-move   Cut 〃 lasso-cut   Duplicate 〃 lasso-duplicate   Re-style/change style 〃 lasso-restyle   Re-size 〃 lasso-resize   Copy handwriting to Clipboard lasso-copyhandwriting   Copy image to Clipboard lasso-copyimage   Recognition Handwriting lasso-recognitionhandwriting  </summary></entry><entry><title type="html">FAQ.2021-07-19-FAQ-How-to-export-PDF-file</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-export-PDF-file" rel="alternate" type="text/html" title="FAQ.2021-07-19-FAQ-How-to-export-PDF-file" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-export-PDF-file</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-export-PDF-file">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;br /&gt;
+&lt;strong&gt;Answer:&lt;/strong&gt; In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG&quot; alt=&quot;picture export-PDF&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: In the Note screen &amp;gt; Left “Menu” setting &amp;gt; Most Used &amp;gt; Print,share &amp;amp; backup &amp;gt; Export this Note</summary></entry><entry><title type="html">FAQ.2021-07-19-FAQ-How-to-share-private-note-with-someone</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-share-private-note-with-someone" rel="alternate" type="text/html" title="FAQ.2021-07-19-FAQ-How-to-share-private-note-with-someone" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-share-private-note-with-someone</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-share-private-note-with-someone">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;br /&gt;
+&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Step 1: Create a new Note  | In the Start Screen &amp;gt; Right “+”  button &amp;gt; Create new Note &amp;gt; Note name: [SomeName] &amp;gt; Create Note&lt;br /&gt;
+(picture of new note)&lt;/li&gt;
+  &lt;li&gt;Step 2: Invite the person     | In the Note screen &amp;gt; Right side “Friends” button &amp;gt; Input “nickname” &amp;gt; Invite&lt;br /&gt;
+(picture of invite)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: Step 1: Create a new Note | In the Start Screen &amp;gt; Right “+” button &amp;gt; Create new Note &amp;gt; Note name: [SomeName] &amp;gt; Create Note (picture of new note) Step 2: Invite the person | In the Note screen &amp;gt; Right side “Friends” button &amp;gt; Input “nickname” &amp;gt; Invite (picture of invite)</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Little-girl-under-rain-rys</title><link href="https://collanotewiki.github.io//en/pages/Cute-Moments/Little-girl-under-rain-rys" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Little-girl-under-rain-rys" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/Cute-Moments/Little-girl-under-rain-rys</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/Cute-Moments/Little-girl-under-rain-rys">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Kunstname - Little girl under rain &lt;/div&gt;
+  &lt;div&gt;Künstler/in - rys&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/little-girl-under-rain-rys.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Kunstname - Little girl under rain Künstler/in - rys</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Little-people-comunity-Unknown</title><link href="https://collanotewiki.github.io//en/pages/Cute-Moments/Little-people-community-Unknown" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Little-people-comunity-Unknown" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/Cute-Moments/Little-people-comunity</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/Cute-Moments/Little-people-community-Unknown">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Kunstname - Little people community &lt;/div&gt;
+  &lt;div&gt;Künstler/in - Unknown&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/little-people-comunity.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Kunstname - Little people community Künstler/in - Unknown</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Beautiful-Characters-HindAimail</title><link href="https://collanotewiki.github.io//en/pages/Cute-Moments/Beautiful-Characters-HindAimail" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Beautiful-Characters-HindAimail" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/Cute-Moments/Beautiful-Characters-HindAimail</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/Cute-Moments/Beautiful-Characters-HindAimail">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Kunstname - Beautiful Characters &lt;/div&gt;
+  &lt;div&gt;Künstler/in - HindAimail&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/HindAlmail.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Kunstname - Beautiful Characters Künstler/in - HindAimail</summary></entry><entry><title type="html">FAQ.2021-07-18-FAQ-Delete-CollaNote</title><link href="https://collanotewiki.github.io//en/pages/FAQ/Delete-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-Delete-CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-Delete-CollaNote</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/Delete-CollaNote">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;br /&gt;
+&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the files before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those notes back.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Long Answer:&lt;/strong&gt; CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).&lt;br /&gt;
+By the menu below, you can choose to save your precious notes on between either &lt;strong&gt;your IPAD&lt;/strong&gt; locally, or &lt;strong&gt;YOUR iCloud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Menu&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Choice&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Comment&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Use iCloud Folder as Home Folder&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;OFF&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;locally on your IPAD&lt;/b&gt;   (default)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;ON&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;on your iCloud Drive&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg&quot; alt=&quot;change-CollaNote-store-path&quot; /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Case you choose to save locally:
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: Files/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder will &lt;strong&gt;be removed&lt;/strong&gt; when you uninstall CollaNote.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg&quot; alt=&quot;store-CollaNote-local&quot; /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Case you choose to save on iCloud Drive
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: iCloud Drive/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder &lt;strong&gt;will stay&lt;/strong&gt; even after you uninstall CollaNote.&lt;br /&gt;
+(picture iCloud Drive)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg&quot; alt=&quot;store-CollaNote-iCloudDrive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So:
+&lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later&lt;/strong&gt;
+&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Short Answer: If you didn’t backup the files before deleting/reinstalling Collanote, then NO, there is no known method to get those notes back. Long Answer: CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally). By the menu below, you can choose to save your precious notes on between either your IPAD locally, or YOUR iCloud Menu Choice Comment Use iCloud Folder as Home Folder OFF Your file is stored locally on your IPAD (default)   ON Your file is stored on your iCloud Drive Case you choose to save locally: Your file is saved in the following path: Files/ColllaNote This folder will be removed when you uninstall CollaNote. Case you choose to save on iCloud Drive Your file is saved in the following path: iCloud Drive/ColllaNote This folder will stay even after you uninstall CollaNote. (picture iCloud Drive) So: If you delete the app, all your notes stored locally will be deleted from it And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</summary></entry><entry><title type="html">FAQ.2021-07-18-FAQ-How-to-import-PDF-file</title><link href="https://collanotewiki.github.io//en/pages/FAQ/How-to-import-PDF-file" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-How-to-import-PDF-file" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io//en/pages/FAQ/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="https://collanotewiki.github.io//en/pages/FAQ/How-to-import-PDF-file">&lt;p&gt;(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen)&lt;br /&gt;
+&lt;strong&gt;Answer:&lt;/strong&gt;
+&lt;strong&gt;Step 1:&lt;/strong&gt; In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG&quot; alt=&quot;picture import-PDF&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Choose the PDF you want to open/import&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG&quot; alt=&quot;picture import-PDF1&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Tap on the needed PDF, and it should be imported automatically&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG&quot; alt=&quot;picture import-PDF2&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Below is example of an imported PDF&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG&quot; alt=&quot;picture import-PDF3&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Diese Seite wurde noch nicht übersetzt. bitte mit der englischen version unten sparen) Answer: Step 1: In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF Step 2: Choose the PDF you want to open/import Tap on the needed PDF, and it should be imported automatically Step 3: Below is example of an imported PDF</summary></entry></feed>

@@ -1,0 +1,44 @@
+I"�	<p><strong>Answer:</strong><br />
+Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you <strong>BACKUP</strong> all of your precious notes to iCloud before proceeding with anything else.
+The steps below show how to backup your precious CollaNotes’ notes and/or PDF in a simple way.</p>
+<ul>
+  <li><strong>Step 1</strong>: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on</li>
+</ul>
+
+<!--more-->
+
+<p align="center"> <img width="500" src="/images/FAQimage/backup-1.jpg" alt="backup-1.jpg" /></p>
+
+<ul>
+  <li>
+    <p><strong>Step 2</strong>: Press the <strong>“move”</strong> option</p>
+  </li>
+  <li>
+    <p><strong>Step 3</strong>: Choose the destination folder “iCloud folders” and press “select current folder”.</p>
+  </li>
+</ul>
+
+<p align="center"> <img width="500" src="/images/FAQimage/backup-2.jpg" alt="backup-2.jpg" /></p>
+
+<p>By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update
+Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install</p>
+
+<p><strong>Notice:</strong> it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files.</p>
+
+<ul>
+  <li><strong>Step 4</strong>: we will recheck to see if all the files are in iCloud folder or not
+from the right Menu &gt; Organising &gt; Use iCloud Folder as Home Folder</li>
+</ul>
+<p align="center"> <img width="500" src="/images/FAQimage/UseIcloudFolder.jpeg" alt="UseIcloudFolder.jpeg" /></p>
+
+<ul>
+  <li>Choose “I understand” as the confirmation appears.</li>
+</ul>
+
+<p>By this step you should see all the files you have moved in step 2</p>
+
+<p>Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote.</p>
+
+<p><strong>Remember</strong>, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud.
+You can switch between iCloud storage and in App storage (local) by the switch <strong>“Use iCloud Folder as Home Folder”</strong></p>
+:ET

@@ -1,0 +1,337 @@
+I"�'<div class="posts">
+
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-backup-Notes-and-PDF">FAQ - How to backup Notes and PDF</a></h1>
+
+            <div class="entry">
+
+                    
+
+                      <div class="entry">
+
+                        Answer:
+Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you BACKUP all of your precious notes to iCloud before proceeding with anything else.
+The steps below show how to backup your precious CollaNotes’ notes and/or PDF in a simple way.
+
+  Step 1: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on
+
+
+
+
+ 
+
+
+  
+    Step 2: Press the “move” option
+  
+  
+    Step 3: Choose the destination folder “iCloud folders” and press “select current folder”.
+  
+
+
+ 
+
+By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update
+Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install
+
+Notice: it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files.
+
+
+  Step 4: we will recheck to see if all the files are in iCloud folder or not
+from the right Menu &gt; Organising &gt; Use iCloud Folder as Home Folder
+
+ 
+
+
+  Choose “I understand” as the confirmation appears.
+
+
+By this step you should see all the files you have moved in step 2
+
+Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote.
+
+Remember, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud.
+You can switch between iCloud storage and in App storage (local) by the switch “Use iCloud Folder as Home Folder”
+
+
+
+                      </div>
+
+                        <a href="/en/pages/FAQ/How-to-backup-Notes-and-PDF" class="read-more">Read More</a>
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-use-lasso-tool">FAQ - How to use lasso tool</a></h1>
+
+            <div class="entry">
+
+                    
+
+                      <div class="entry">
+
+                        Answer:
+This is the lasso tool - The group editing tool
+(Lasso tool picture)
+  
+Lasso tool has 2 way to select a group:
+
+  Rectangular selection
+  Freeform selection
+
+
+
+
+picture lasso tool in action
+  
+
+
+  
+    
+      Menu
+      Label
+      Result
+    
+  
+  
+    
+      Delete group
+      lasso-delete
+       
+    
+    
+      Copy  〃
+      lasso-copy
+       
+    
+    
+      Move  〃
+      lasso-move
+       
+    
+    
+      Cut   〃
+      lasso-cut
+       
+    
+    
+      Duplicate 〃
+      lasso-duplicate
+       
+    
+    
+      Re-style/change style  〃
+      lasso-restyle
+       
+    
+    
+      Re-size  〃
+      lasso-resize
+       
+    
+    
+      Copy handwriting to Clipboard
+      lasso-copyhandwriting
+       
+    
+    
+      Copy image to Clipboard
+      lasso-copyimage
+       
+    
+    
+      Recognition Handwriting
+      lasso-recognitionhandwriting
+       
+    
+  
+
+
+
+
+                      </div>
+
+                        <a href="/en/pages/FAQ/How-to-use-lasso-tool" class="read-more">Read More</a>
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-use-curve-tool">FAQ - How to use curve tool</a></h1>
+
+            <div class="entry">
+
+                    
+
+                        <p><strong>Answer:</strong>
+This is the <strong>curve tool</strong></p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG" alt="curve tool picture" /> </p>
+
+
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-share-private-note-with-someone">FAQ How to share private note with someone</a></h1>
+
+            <div class="entry">
+
+                    
+
+                        <p><strong>Answer:</strong></p>
+<ul>
+  <li>Step 1: Create a new Note  | In the Start Screen &gt; Right “+”  button &gt; Create new Note &gt; Note name: [SomeName] &gt; Create Note<br />
+(picture of new note)</li>
+  <li>Step 2: Invite the person     | In the Note screen &gt; Right side “Friends” button &gt; Input “nickname” &gt; Invite<br />
+(picture of invite)</li>
+</ul>
+
+
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-export-PDF-file">FAQ - How to export PDF file</a></h1>
+
+            <div class="entry">
+
+                    
+
+                        <p><strong>Answer:</strong> In the Note screen &gt; Left “Menu” setting &gt; Most Used &gt; Print,share &amp; backup &gt; Export this Note</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG" alt="picture export-PDF" /> </p>
+
+
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/How-to-import-PDF-file">FAQ - How to import PDF file</a></h1>
+
+            <div class="entry">
+
+                    
+
+                        <p><strong>Answer:</strong>
+<strong>Step 1:</strong> In the Start Screen &gt; Right “Menu” setting &gt; Import PDF</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF" /> </p>
+
+<p><strong>Step 2:</strong> Choose the PDF you want to open/import</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG" alt="picture import-PDF1" /> </p>
+
+<p>Tap on the needed PDF, and it should be imported automatically</p>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG" alt="picture import-PDF2" /> </p>
+
+<p><strong>Step 3:</strong> Below is example of an imported PDF</p>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG" alt="picture import-PDF3" /> </p>
+
+
+
+                    
+
+            </div>
+
+        </article>
+  
+        <article class="post">
+
+          <h1><a href="/en/pages/FAQ/Delete-CollaNote">FAQ - Can we get the old notes back after deleting the app and then reinstall it</a></h1>
+
+            <div class="entry">
+
+                    
+
+                        <p><strong>Short Answer:</strong> If you didn’t backup the files before deleting/reinstalling Collanote, then <strong>NO</strong>, there is no known method to get those notes back.</p>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote" /> </p>
+
+<p><strong>Long Answer:</strong> CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).</p>
+
+<p>By the menu below, you can choose to save your precious notes on between either <strong>your IPAD</strong> locally, or <strong>YOUR iCloud</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Menu</th>
+      <th style="text-align: center">Choice</th>
+      <th style="text-align: center">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Use iCloud Folder as Home Folder</td>
+      <td style="text-align: center"><b>OFF</b></td>
+      <td style="text-align: center">Your file is stored  <b>locally on your IPAD</b>   (default)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><b>ON</b></td>
+      <td style="text-align: center">Your file is stored  <b>on your iCloud Drive</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg" alt="change-CollaNote-store-path" /> </p>
+
+<ul>
+  <li>Case you choose to save locally:
+    <ul>
+      <li>Your file is saved in the following path: Files/ColllaNote</li>
+      <li>This folder will <strong>be removed</strong> when you uninstall CollaNote.</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg" alt="store-CollaNote-local" /> </p>
+
+<ul>
+  <li>Case you choose to save on iCloud Drive
+    <ul>
+      <li>Your file is saved in the following path: iCloud Drive/ColllaNote</li>
+      <li>This folder <strong>will stay</strong> even after you uninstall CollaNote.<br />
+(picture iCloud Drive)</li>
+    </ul>
+  </li>
+</ul>
+<p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg" alt="store-CollaNote-iCloudDrive" /></p>
+<p>So:
+<strong>If you delete the app, all your notes stored locally will be deleted from it</strong><br />
+<strong>And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later</strong>
+<strong>We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote</strong></p>
+
+
+
+                    
+
+            </div>
+
+        </article>
+  
+
+</div>
+:ET
