@@ -1,0 +1,6 @@
+I"è<h1 id="version-1113">Version 1.1.13</h1>
+<p>Release Date: Jul 16, 2021</p>
+<ul>
+  <li>Fix bug: If a note created by importing pdf and user add a new page to the note, this new page also has pdf background of pages above</li>
+</ul>
+:ET

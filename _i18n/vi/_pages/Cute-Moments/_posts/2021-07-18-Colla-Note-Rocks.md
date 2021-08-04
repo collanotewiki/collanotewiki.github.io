@@ -1,1 +1,0 @@
-**Tranh của alfoxartz**  

@@ -1,1 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/en/feed.xml" rel="self" type="application/atom+xml" /><link href="/en/" rel="alternate" type="text/html" hreflang="vi" /><updated>2021-08-04T14:48:47+09:00</updated><id>/en/feed.xml</id><title type="html">CollaNote WIKI</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://collanotewiki.github.io/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://collanotewiki.github.io/en/" rel="alternate" type="text/html" hreflang="vi" /><updated>2021-08-05T01:51:39+09:00</updated><id>https://collanotewiki.github.io/en/feed.xml</id><title type="html">CollaNote WIKI</title><entry xml:lang="vi"><title type="html">FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-backup-ghi-chu-va-PDF" rel="alternate" type="text/html" title="FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF" /><published>2021-08-04T00:00:00+09:00</published><updated>2021-08-04T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-backup-Notes-and-PDF</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-backup-ghi-chu-va-PDF">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;br /&gt;
+&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you &lt;strong&gt;BACKUP&lt;/strong&gt; all of your precious notes to iCloud before proceeding with anything else.&lt;br /&gt;
+The steps below shows how to backup your precious CollaNotes’ notes and/or PDF in a simple way.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/backup-1.jpg&quot; alt=&quot;backup-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Press the &lt;strong&gt;“move”&lt;/strong&gt; option&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: Choose the destination folder “iCloud folders” and press “select current folder”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/backup-2.jpg&quot; alt=&quot;backup-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By doing this, you backup the file to your iCloud folder. This file will be safe even if you do a uninstall or re-install or updating a big update
+Do this only for the notes/pictures/pdf that are important to you, so Public room, Public question room and LGBT public room is not important, they will be re-install anyway after you do the uninstall/re-install&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notice:&lt;/strong&gt; it is normal that the ones you selected disappeared one by one (they are moved to the iCloud folder), just move all the important files first, then we move to the next step to confirm the moved files.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: we will recheck to see if all the files are in iCloud folder or not
+from the right Menu &amp;gt; Organising &amp;gt; Use iCloud Folder as Home Folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/UseIcloudFolder.jpeg&quot; alt=&quot;UseIcloudFolder.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choose “I understand” as the confirmation appears.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By this step you should see all the files you have moved in step 2&lt;/p&gt;
+
+&lt;p&gt;Congratulation, now you have backed up all the important files and could safely proceed with uninstalling, re-installing or updating CollaNote.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remember&lt;/strong&gt;, all of the files that are not backed up will be lost. So, it is a good ideas to double check if you have moved all of the files from local to iCloud.&lt;/p&gt;
+
+&lt;p&gt;You can switch between iCloud storage and in App storage (local) by the switch ““Use iCloud Folder as Home Folder””&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) Answer: Before you uninstall or re-install CollaNote or Updating a big update in CollaNote, make sure that you BACKUP all of your precious notes to iCloud before proceeding with anything else. The steps below shows how to backup your precious CollaNotes’ notes and/or PDF in a simple way.</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-21-FAQ-How-to-use-curve-tool</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-su-dung-cong-cu-duong-cong-curve-tool" rel="alternate" type="text/html" title="FAQ.2021-07-21-FAQ-How-to-use-curve-tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-use-curve-tool</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-su-dung-cong-cu-duong-cong-curve-tool">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;
+Đây là công cụ &lt;strong&gt;Đường cong&lt;/strong&gt; - &lt;strong&gt;curve tool&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/NoteScreenCurveTool.PNG&quot; alt=&quot;curve tool picture&quot; /&gt; &lt;/p&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Trả lời: Đây là công cụ Đường cong - curve tool</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-21-FAQ-How-to-use-lasso-tool</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-su-dung-cong-cu-Lasso-Cong-cu-chinh-sua-nhom" rel="alternate" type="text/html" title="FAQ.2021-07-21-FAQ-How-to-use-lasso-tool" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-use-lasso-tool</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-su-dung-cong-cu-Lasso-Cong-cu-chinh-sua-nhom">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;
+Đây là công cụ &lt;strong&gt;lasso tool&lt;/strong&gt; - &lt;em&gt;Công cụ chỉnh sửa nhóm&lt;/em&gt;&lt;br /&gt;
+(Hình công cụ Lasso)&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;Công cụ Lasso hỗ trợ 2 cách để chọn một nhóm đối tượng:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chọn nhóm theo hình chữ nhật&lt;/li&gt;
+  &lt;li&gt;Chọn nhóm theo hình tự do&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hình minh họa chọn nhóm đối tượng bằng công cụ lasso&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/notescreenlasso1.PNG&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Menu Tiếng Việt&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Tiếng Anh&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;biểu tượng&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Kết quả&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Xóa  nhóm&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Delete&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-delete&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;sao chép  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Copy&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copy&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;di chuyển  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Move&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-move&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cắt   〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Cut&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-cut&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;nhân đôi 〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Duplicate&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-duplicate&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;đổi style (màu, nét dày/mỏng) 〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Re-style/change style&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-restyle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;đổi kích thước  〃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Re-size&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-resize&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;sao chép chữ viết tay vào Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Copy handwriting to Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copyhandwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sao chép hình ảnh vào Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Copy image to Clipboard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-copyimage&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Nhận diện chữ viết tay/hình ảnh&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Recognition Handwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lasso-recognitionhandwriting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Trả lời: Đây là công cụ lasso tool - Công cụ chỉnh sửa nhóm (Hình công cụ Lasso) Công cụ Lasso hỗ trợ 2 cách để chọn một nhóm đối tượng: Chọn nhóm theo hình chữ nhật Chọn nhóm theo hình tự do</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-19-FAQ-How-to-export-PDF-file</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-xuat-file-PDF-tu-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-19-FAQ-How-to-export-PDF-file" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-export-PDF-file</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-xuat-file-PDF-tu-CollaNote">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt; Trong màn hình ghi chú &amp;gt; Menu tay trái &amp;gt; Tab Thường dùng &amp;gt; In và xuất PDF &amp;gt; Xuất PDF này&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/exportPDF.PNG&quot; alt=&quot;picture export-PDF&quot; /&gt; &lt;/p&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Trả lời: Trong màn hình ghi chú &amp;gt; Menu tay trái &amp;gt; Tab Thường dùng &amp;gt; In và xuất PDF &amp;gt; Xuất PDF này</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-19-FAQ-How-to-share-private-note-with-someone</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-chia-se-ghi-chu-voi-nguoi-khac" rel="alternate" type="text/html" title="FAQ.2021-07-19-FAQ-How-to-share-private-note-with-someone" /><published>2021-07-19T00:00:00+09:00</published><updated>2021-07-19T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-share-private-note-with-someone</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-chia-se-ghi-chu-voi-nguoi-khac">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &amp;gt; chọn nút “+” bên phải &amp;gt; tạo ghi chú mới &amp;gt; Tên ghi chú: [GhiChu1] &amp;gt; Thêm ghi chú
+(hình ảnh ghi chú mới)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 2: Mời muốn chia sẻ | ở giao diện ghi chú &amp;gt; chọn nút “bạn bè” tay phải &amp;gt; nhập “Nickname/Email”&amp;gt; Mời
+(hình ảnh mời)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Trả lời: Bước 1: Tạo ghi chú mới | ở giao diện khởi động của CollaNote &amp;gt; chọn nút “+” bên phải &amp;gt; tạo ghi chú mới &amp;gt; Tên ghi chú: [GhiChu1] &amp;gt; Thêm ghi chú (hình ảnh ghi chú mới)</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Little-girl-under-rain-rys</title><link href="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-girl-under-rain-rys" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Little-girl-under-rain-rys" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-girl-under-rain-rys</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-girl-under-rain-rys">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Tên tranh - Little girl under rain &lt;/div&gt;
+  &lt;div&gt;Họa sĩ - rys&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/little-girl-under-rain-rys.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Tên tranh - Little girl under rain Họa sĩ - rys</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Little-people-comunity-Unknown</title><link href="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-people-community-Unknown" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Little-people-comunity-Unknown" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-people-comunity</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Little-people-community-Unknown">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Tên tranh - Little people community &lt;/div&gt;
+  &lt;div&gt;Họa sĩ - Unknown&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/little-people-comunity.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Tên tranh - Little people community Họa sĩ - Unknown</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Beautiful-Characters-HindAimail</title><link href="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Beautiful-Characters-HindAimail" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Beautiful-Characters-HindAimail" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Beautiful-Characters-HindAimail</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Beautiful-Characters-HindAimail">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Tên tranh - Beautiful Characters &lt;/div&gt;
+  &lt;div&gt;Họa sĩ - HindAimail&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/HindAlmail.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Tên tranh - Beautiful Characters Họa sĩ - HindAimail</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-18-FAQ-Delete-CollaNote</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Lay-lai-cac-ghi-chu-cu-sau-khi-xoa-va-cai-lai-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-Delete-CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-Delete-CollaNote</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Lay-lai-cac-ghi-chu-cu-sau-khi-xoa-va-cai-lai-CollaNote">&lt;p&gt;(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen)&lt;/p&gt;
+&lt;p&gt;**Short Answer:** If you didn&apos;t backup the files before deleting/reinstalling Collanote, then **NO**, there is no known method to get those notes back.  &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Long Answer:&lt;/strong&gt; CollaNote isn’t designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).&lt;br /&gt;
+By the menu below, you can choose to save your precious notes on between either &lt;strong&gt;your IPAD&lt;/strong&gt; locally, or &lt;strong&gt;YOUR iCloud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Menu&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Choice&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Comment&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Use iCloud Folder as Home Folder&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;OFF&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;locally on your IPAD&lt;/b&gt;   (default)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;b&gt;ON&lt;/b&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Your file is stored  &lt;b&gt;on your iCloud Drive&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/UseIcloudFolder.jpeg&quot; alt=&quot;change-CollaNote-store-path&quot; /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Case you choose to save locally:
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: Files/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder will &lt;strong&gt;be removed&lt;/strong&gt; when you uninstall CollaNote.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-local.jpeg&quot; alt=&quot;store-CollaNote-local&quot; /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Case you choose to save on iCloud Drive
+    &lt;ul&gt;
+      &lt;li&gt;Your file is saved in the following path: iCloud Drive/ColllaNote&lt;/li&gt;
+      &lt;li&gt;This folder &lt;strong&gt;will stay&lt;/strong&gt; even after you uninstall CollaNote.&lt;br /&gt;
+(picture iCloud Drive)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/path-icloud.jpeg&quot; alt=&quot;store-CollaNote-iCloudDrive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So:
+&lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later&lt;/strong&gt;
+&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">(Trang này chưa được dịch ra tiếng Việt, nên các bạn chịu khó đọc tiếng Anh đỡ nghen) **Short Answer:** If you didn&apos;t backup the files before deleting/reinstalling Collanote, then **NO**, there is no known method to get those notes back.</summary></entry><entry xml:lang="vi"><title type="html">FAQ.2021-07-18-FAQ-How-to-import-PDF-file</title><link href="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-mo-file-PDF-tren-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-How-to-import-PDF-file" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/vi/pages/Hoi-Dap/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="https://collanotewiki.github.io/vi/pages/Hoi-Dap/Cach-mo-file-PDF-tren-CollaNote">&lt;p&gt;&lt;strong&gt;Trả lời:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Bước 1:&lt;/strong&gt; Trong giao diện khởi động &amp;gt; Menu tay phải &amp;gt; Nhập file PDF&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG&quot; alt=&quot;picture import-PDF&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Chọn file PDF muốn mở&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG&quot; alt=&quot;picture import-PDF1&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Sau khi bấm lựa chọn, file PDF sẽ tự động được mở&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG&quot; alt=&quot;picture import-PDF2&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Dưới đây là hình ảnh của một file PDF sau khi mở&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG&quot; alt=&quot;picture import-PDF3&quot; /&gt; &lt;/p&gt;
+
+&lt;div class=&quot;date&quot;&gt;Translate date: July 26, 2021&lt;br /&gt;Translator: Đăng&lt;/div&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Trả lời: Bước 1: Trong giao diện khởi động &amp;gt; Menu tay phải &amp;gt; Nhập file PDF</summary></entry></feed>
