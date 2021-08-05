@@ -13,6 +13,8 @@ lang: de
 **Short Answer:** If you didn't backup the files before deleting/reinstalling Collanote, then **NO**, there is no known method to get those notes back.  
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png" alt="Uninstall-CollaNote"> </p>
 
+<!--more-->
+
 **Long Answer:** CollaNote isn't designed to store your private files/notes on any server (except your own iCloud Drive and you have to manually choose it, as the default is store notes locally).  
 By the menu below, you can choose to save your precious notes on between either **your IPAD** locally, or **YOUR iCloud**  
 

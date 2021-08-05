@@ -21,9 +21,14 @@ layout: defaultPagePost
 
   </div>
 
-  <div class="video">
+  <div class="video" style="text-align:center;">
 
-    <p>{% if page.youtubeId %}{% include youtubePlayer.html id=page.youtubeId %} {% endif %}</p>
+    <p>
+      {% if page.youtubeId %}
+        <h3><p style="text-align:left;">{% t posts.video %}: {% t page.title %}</p><h3>
+        {% include youtubePlayer.html id=page.youtubeId %}
+      {% endif %}
+    </p>
 
   </div>
 

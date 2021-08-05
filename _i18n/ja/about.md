@@ -15,3 +15,12 @@
 
 ### コラノートウイキデザイナー
 Wikiデザイナー: **Dang Tran.D.H**
+
+
+### 連絡先
+- **CollaNote Facebook:** [https://www.facebook.com/collanote](https://www.facebook.com/collanote)  
+- **CollaNoteアプリについての連絡:** [quochuywdm@gmail.com](mailto:quochuywdm@gmail.com)  
+- **CollaNoteWiki翻訳についての連絡:** [tran_dang0709@yahoo.com](mailto:tran_dang0709@yahoo.com)   
+- **Youtubeチャンネル:** [Quoc Huy Nguyen Channel](https://www.youtube.com/channel/UCUUGke3qrfgvSiuGA29fs7A)  
+
+※ CollaNoteはパブリックルームを清潔に保つための新しいボランティアモデレーターを募集しています。 興味のある方はインスタグラムDMで連絡頂けると幸いです。[@delinxw](https://www.instagram.com/delinxw/)

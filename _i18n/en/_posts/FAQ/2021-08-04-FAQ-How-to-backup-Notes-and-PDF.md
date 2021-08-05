@@ -1,7 +1,7 @@
 ---
 layout: post
-version: 1.1.13
 title: FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF
+version: 1.1.13
 youtubeId: pyCsEayaWkc
 namespace: FAQ-How-to-backup-Notes-and-PDF
 permalink: /pages/FAQ/How-to-backup-Notes-and-PDF
@@ -15,9 +15,9 @@ Before you uninstall or re-install  CollaNote or Updating a big update in  Colla
 The steps below show how to backup your precious CollaNotes' notes and/or PDF in a simple way.  
 - **Step 1**: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on
 
-<!--more-->  
-
 <p align="center"> <img width="500" src="/images/FAQimage/backup-1.jpg" alt="backup-1.jpg"></p>
+
+<!--more-->
 
 - **Step 2**: Press the **"move"** option
 

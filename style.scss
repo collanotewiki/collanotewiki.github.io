@@ -358,21 +358,54 @@ img {
   }
 
 //For making image nicer
-  .img_style1 {
-      /* The image used */
-
-      /* Full height */
+img.img_style1 {
+    width: 100%;
+    @include mobile {
       width: 100%;
-
       /* Center and scale the image nicely */
+     }
+  }
+//For making image nicer - round the image by 10%
+img.brd6{
+  border-radius: 6%;
+}
 
+//For making table nicer
+table, th, td { border: 1px solid black;} ;
+table.frame4images {
+    /* Full width */
+    width: 80%;
+    border: 0px solid #F7F7F7;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    /* Center and scale the image nicely */
+    @include mobile {
+      width: 90%;
+      border-collapse: collapse;
+      margin-left: auto;
+      margin-right: auto;;
+     }
+  }
+//style for table heading
+table.frame4images th {
+      border: 0px solid #F7F7F7;
+      padding: 0px;
+  }
+//style for table row
+table.frame4images tr {
+    border: 0px solid #F7F7F7;
+    padding: 0px;
+    vertical-align: top;
+}
+//style for table data
+table.frame4images td {
+    border: 0px solid #F7F7F7;
+    padding: 0px;
+    vertical-align: top;
+    text-align: center;
+}
 
-      @include mobile {
-        width: 100%;
-
-        /* Center and scale the image nicely */
-       }
-    }
 //For making youtube video nicer
 .embed-youtube {
     position: relative;

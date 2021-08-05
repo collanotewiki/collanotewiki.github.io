@@ -14,6 +14,8 @@ lang: de
 **Step 1:** In the Start Screen > Right "Menu" setting > Import PDF  
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF"> </p>
 
+<!--more-->
+
 **Step 2:** Choose the PDF you want to open/import
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG" alt="picture import-PDF1"> </p>  
 

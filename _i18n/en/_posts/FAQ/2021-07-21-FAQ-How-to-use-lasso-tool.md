@@ -1,7 +1,7 @@
 ---
 layout: post
-version: 1.1.13
 title: FAQ.2021-07-21-FAQ-How-to-use-lasso-tool
+version: 1.1.13
 youtubeId: Boa4PKuwHHQ
 namespace: FAQ-How-to-use-lasso-tool
 permalink: /pages/FAQ/How-to-use-lasso-tool

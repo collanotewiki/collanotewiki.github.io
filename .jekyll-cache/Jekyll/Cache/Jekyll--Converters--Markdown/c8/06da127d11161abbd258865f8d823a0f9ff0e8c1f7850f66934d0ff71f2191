@@ -1,0 +1,22 @@
+I"�<p>(このページはまだ翻訳されていません。 以下の英語版をご利用ください)</p>
+
+<h1 id="version-1113---version-1110">Version 1.1.13 - Version 1.1.10</h1>
+<h1 id="release-date-jul-16-2021">Release Date: Jul 16, 2021</h1>
+<ul>
+  <li>
+    <p>Fix bug: If a note created by importing pdf and user add a new page to the note, this new page also has pdf background of pages above</p>
+  </li>
+  <li>
+    <p>Fix bug: Ghosting effect in lasso tool if select handwriting in a pages with big index (e.g. page 100)</p>
+  </li>
+  <li>
+    <p>Fix bug: Handwriting sometimes disappear after using lasso tool to move them to other page</p>
+  </li>
+  <li>
+    <p>Fix bug: Duplicate page -&gt; select handwriting by lasso tool -&gt; delete -&gt; handwritings in both old and new page got deleted</p>
+  </li>
+  <li>
+    <p>Fix bug: Duplicate page -&gt; delete photo in bottom page -&gt; photo in top page got deleted</p>
+  </li>
+</ul>
+:ET

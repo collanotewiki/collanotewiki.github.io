@@ -15,3 +15,12 @@ Trang này có 4 mục đích chính:
 
 ### Người thiết kế CollaNote Wiki
 - Người thiết kế CollaNote Wiki: **Dang Tran.D.H**
+
+
+### Liên hệ
+- **CollaNote Facebook:** [https://www.facebook.com/collanote](https://www.facebook.com/collanote)  
+- **Email về ứng dụng CollaNote:** [quochuywdm@gmail.com](mailto:quochuywdm@gmail.com)  
+- **Email về hỗ trợ dịch tiếng Việt cho CollaNote Wiki:** [tran_dang0709@yahoo.com](mailto:tran_dang0709@yahoo.com)   
+- **Kênh Youtube:** [Quoc Huy Nguyen Channel](https://www.youtube.com/channel/UCUUGke3qrfgvSiuGA29fs7A)  
+
+※ CollaNote đang tìm tình nguyện viên mới làm moderator giúp giữ trật tự cho các phòng công cộng (public). Nếu bạn quan tâm, vui lòng gửi DM trên instagram tới [@delinxw](https://www.instagram.com/delinxw/) (cần tiếng Anh chút) (Nếu không nói tiếng anh được thì gửi email thẳng tới bạn Huy nha ＼(^o^)／)

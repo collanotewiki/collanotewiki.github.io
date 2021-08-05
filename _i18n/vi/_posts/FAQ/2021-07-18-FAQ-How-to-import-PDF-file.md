@@ -13,6 +13,8 @@ lang: vi
 **Bước 1:** Trong giao diện khởi động > Menu tay phải > Nhập file PDF
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG" alt="picture import-PDF"> </p>
 
+<!--more-->
+
 **Bước 2:** Chọn file PDF muốn mở
 <p align="center"> <img width="500" src="https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG" alt="picture import-PDF1"> </p>  
 

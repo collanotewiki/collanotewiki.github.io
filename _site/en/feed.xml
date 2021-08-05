@@ -1,13 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://collanotewiki.github.io/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://collanotewiki.github.io/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-08-05T02:50:12+09:00</updated><id>https://collanotewiki.github.io/en/feed.xml</id><title type="html">CollaNote WIKI</title><entry xml:lang="en"><title type="html">FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF</title><link href="https://collanotewiki.github.io/en/pages/FAQ/How-to-backup-Notes-and-PDF" rel="alternate" type="text/html" title="FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF" /><published>2021-08-04T00:00:00+09:00</published><updated>2021-08-04T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/FAQ/FAQ-How-to-backup-Notes-and-PDF</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/FAQ/How-to-backup-Notes-and-PDF">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://collanotewiki.github.io/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://collanotewiki.github.io/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-08-05T17:23:19+09:00</updated><id>https://collanotewiki.github.io/en/feed.xml</id><title type="html">CollaNote WIKI</title><entry xml:lang="en"><title type="html">ReleaseNotes.2021-08-05-ReleaseNotes-CollaNote-Version1v2</title><link href="https://collanotewiki.github.io/en/pages/ReleaseNotes/CollaNote-Version1v2" rel="alternate" type="text/html" title="ReleaseNotes.2021-08-05-ReleaseNotes-CollaNote-Version1v2" /><published>2021-08-05T00:00:00+09:00</published><updated>2021-08-05T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/ReleaseNotes/ReleaseNotes-CollaNote-Version1v2</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/ReleaseNotes/CollaNote-Version1v2">&lt;h2 id=&quot;collanote-version-120&quot;&gt;CollaNote Version 1.2.0&lt;/h2&gt;
+&lt;h2 id=&quot;release-date-soon&quot;&gt;Release Date: Soon&lt;/h2&gt;
+&lt;p&gt;This update is mainly for improving PDF experience of our lovely CollaNote user ⸜( ´ ꒳ ´ )⸝♡︎&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;New PDF Engine
+    &lt;ul&gt;
+      &lt;li&gt;Import PDF as big as you want without waiting time&lt;/li&gt;
+      &lt;li&gt;Support hyperlink in PDF and show a web popup for internet-link&lt;/li&gt;
+      &lt;li&gt;Smooth scrolling without “scroll speed limitation” (in the video you can scroll through a PDF document with more than 600 pages in 5 seconds)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bookmark and Outline
+    &lt;ul&gt;
+      &lt;li&gt;Show outlines from PDF as a tree, tap at any knot to go to page&lt;/li&gt;
+      &lt;li&gt;Create bookmark in your note: with many icons and colors&lt;/li&gt;
+      &lt;li&gt;Add quick bookmark, AI technology will fill the title of the bookmark automatic for you&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New attachments’ Menu  (attachments are images or textboxs)
+    &lt;ul&gt;
+      &lt;li&gt;Support layer for attachments (bring to front, send to back)&lt;/li&gt;
+      &lt;li&gt;Many other features in the new menu&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New PDF export menu: You can now export a range of pages or a single page&lt;/li&gt;
+  &lt;li&gt;Different background Paper/Template for each page
+&lt;!--more--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;screenshot&quot;&gt;Screenshot:&lt;/h2&gt;
+&lt;h3 id=&quot;bookmark-and-outline-screenshots&quot;&gt;Bookmark and outline screenshots&lt;/h3&gt;
+
+&lt;p&gt;● This is how Outlines and Bookmark menu look like&lt;/p&gt;
+&lt;table class=&quot;frame4images&quot;&gt;&lt;tr&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/PDF-OutlineOnly-Ver1v2.jpg&quot; alt=&quot;PDF-OutlineOnly-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/PDF-BookmarkOnly-Ver1v2.jpg&quot; alt=&quot;BookmarkOnly-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;●  Add a Bookmark and customize bookmark color and icon as you like&lt;/p&gt;
+&lt;table class=&quot;frame4images&quot;&gt;&lt;tr&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/PDF-BookmarkPurple-Ver1v2.jpg&quot; alt=&quot;PDF-BookmarkPurple-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/PDF-BookmarkGreen-Ver1v2.jpg&quot; alt=&quot;PDF-BookmarkGreen-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+
+&lt;h3 id=&quot;customize-template-for-each-page&quot;&gt;Customize template for each page&lt;/h3&gt;
+&lt;p&gt;●  Choose template for whole note and customize template for each page&lt;/p&gt;
+&lt;table class=&quot;frame4images&quot;&gt;&lt;tr&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/ChooseTemplateWholeNote-Ver1v2.jpg&quot; alt=&quot;ChooseTemplateWholeNote-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/DifferentBackGroundEachPage-Ver1v2.jpg&quot; alt=&quot;DifferentBackGroundEachPage-Ver1v2&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+
+&lt;h3 id=&quot;new-pdf-export-menu&quot;&gt;New PDF export Menu&lt;/h3&gt;
+&lt;p&gt;● Choose which page to export, as well as export PDF file or export PNG picture&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/PDF-ExportMenu-Ver1v2.jpg&quot; alt=&quot;PDF-ExportMenu-Ver1v2&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;new-attachments-menu-pictures-and-textboxs&quot;&gt;New attachments menu (pictures and textboxs)&lt;/h3&gt;
+&lt;p&gt;● More intuitive attachments’ Menu&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/AttachmentsMenu-Ver1v2.jpg&quot; alt=&quot;AttachmentsMenu-Ver1v2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;● Layers for switching images/textboxs between front and back (only 2 layers at the moment in version 1.2)&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img class=&quot;brd6&quot; width=&quot;500&quot; src=&quot;/images/ReleaseNotesimage/Layers-Ver1v2.jpg&quot; alt=&quot;Layers-Ver1v2&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="ReleaseNotes" /><summary type="html">CollaNote Version 1.2.0 Release Date: Soon This update is mainly for improving PDF experience of our lovely CollaNote user ⸜( ´ ꒳ ´ )⸝♡︎ New PDF Engine Import PDF as big as you want without waiting time Support hyperlink in PDF and show a web popup for internet-link Smooth scrolling without “scroll speed limitation” (in the video you can scroll through a PDF document with more than 600 pages in 5 seconds) Bookmark and Outline Show outlines from PDF as a tree, tap at any knot to go to page Create bookmark in your note: with many icons and colors Add quick bookmark, AI technology will fill the title of the bookmark automatic for you New attachments’ Menu (attachments are images or textboxs) Support layer for attachments (bring to front, send to back) Many other features in the new menu New PDF export menu: You can now export a range of pages or a single page Different background Paper/Template for each page</summary></entry><entry xml:lang="en"><title type="html">FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF</title><link href="https://collanotewiki.github.io/en/pages/FAQ/How-to-backup-Notes-and-PDF" rel="alternate" type="text/html" title="FAQ.2021-08-04-FAQ-How-to-backup-Notes-and-PDF" /><published>2021-08-04T00:00:00+09:00</published><updated>2021-08-04T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/FAQ/FAQ-How-to-backup-Notes-and-PDF</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/FAQ/How-to-backup-Notes-and-PDF">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
 Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you &lt;strong&gt;BACKUP&lt;/strong&gt; all of your precious notes to iCloud before proceeding with anything else.
 The steps below show how to backup your precious CollaNotes’ notes and/or PDF in a simple way.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;!--more--&gt;
-
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/FAQimage/backup-1.jpg&quot; alt=&quot;backup-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -132,11 +193,11 @@ This is the &lt;strong&gt;lasso tool&lt;/strong&gt; - &lt;em&gt;The group editin
   &lt;div&gt;  Art name - Little people community &lt;/div&gt;
   &lt;div&gt;Artist - Unknown&lt;/div&gt;
   &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/little-people-comunity.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
-  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Art name - Little people community Artist - Unknown</summary></entry><entry><title type="html">CuteMoments.2021-07-18-Beautiful-Characters-HindAimail</title><link href="https://collanotewiki.github.io/en/pages/Cute-Moments/Beautiful-Characters-HindAimail" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-Beautiful-Characters-HindAimail" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/Cute-Moments/Beautiful-Characters-HindAimail</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/Cute-Moments/Beautiful-Characters-HindAimail">&lt;div class=&quot;picture&quot;&gt;
-  &lt;div&gt;  Art name - Beautiful Characters &lt;/div&gt;
-  &lt;div&gt;Artist - HindAimail&lt;/div&gt;
-  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/HindAlmail.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
-  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Art name - Beautiful Characters Artist - HindAimail</summary></entry><entry xml:lang="en"><title type="html">FAQ.2021-07-18-FAQ-Delete-CollaNote</title><link href="https://collanotewiki.github.io/en/pages/FAQ/Delete-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-Delete-CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/FAQ/FAQ-Delete-CollaNote</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/FAQ/Delete-CollaNote">&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the files before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those notes back.&lt;/p&gt;
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Art name - Little people community Artist - Unknown</summary></entry><entry><title type="html">CuteMoments.2021-07-18-The-tree-Unknown</title><link href="https://collanotewiki.github.io/en/pages/Cute-Moments/The-tree-Unknown" rel="alternate" type="text/html" title="CuteMoments.2021-07-18-The-tree-Unknown" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/Cute-Moments/The-tree-Unknown</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/Cute-Moments/The-tree-Unknown">&lt;div class=&quot;picture&quot;&gt;
+  &lt;div&gt;  Art name - The Tree &lt;/div&gt;
+  &lt;div&gt;Artist - Unknown&lt;/div&gt;
+  &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;/images/CuteMomentsimage/The-Tree.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; 
+  &lt;/div&gt;</content><author><name></name></author><category term="CuteMoments" /><summary type="html">Art name - The Tree Artist - Unknown</summary></entry><entry xml:lang="en"><title type="html">FAQ.2021-07-18-FAQ-Delete-CollaNote</title><link href="https://collanotewiki.github.io/en/pages/FAQ/Delete-CollaNote" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-Delete-CollaNote" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/FAQ/FAQ-Delete-CollaNote</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/FAQ/Delete-CollaNote">&lt;p&gt;&lt;strong&gt;Short Answer:&lt;/strong&gt; If you didn’t backup the files before deleting/reinstalling Collanote, then &lt;strong&gt;NO&lt;/strong&gt;, there is no known method to get those notes back.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/deletecollanote.png&quot; alt=&quot;Uninstall-CollaNote&quot; /&gt; &lt;/p&gt;
 
@@ -192,18 +253,4 @@ This is the &lt;strong&gt;lasso tool&lt;/strong&gt; - &lt;em&gt;The group editin
 &lt;p&gt;So:
 &lt;strong&gt;If you delete the app, all your notes stored locally will be deleted from it&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt;And if you don’t back up the files ‘before’ deleting/re-installing CollaNote, then there is NO WAY to get those notes back later&lt;/strong&gt;
-&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Short Answer: If you didn’t backup the files before deleting/reinstalling Collanote, then NO, there is no known method to get those notes back.</summary></entry><entry xml:lang="en"><title type="html">FAQ.2021-07-18-FAQ-How-to-import-PDF-file</title><link href="https://collanotewiki.github.io/en/pages/FAQ/How-to-import-PDF-file" rel="alternate" type="text/html" title="FAQ.2021-07-18-FAQ-How-to-import-PDF-file" /><published>2021-07-18T00:00:00+09:00</published><updated>2021-07-18T00:00:00+09:00</updated><id>https://collanotewiki.github.io/en/pages/FAQ/FAQ-How-to-import-PDF-file</id><content type="html" xml:base="https://collanotewiki.github.io/en/pages/FAQ/How-to-import-PDF-file">&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;
-&lt;strong&gt;Step 1:&lt;/strong&gt; In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf.JPEG&quot; alt=&quot;picture import-PDF&quot; /&gt; &lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Choose the PDF you want to open/import&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf1.JPEG&quot; alt=&quot;picture import-PDF1&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;Tap on the needed PDF, and it should be imported automatically&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf2.PNG&quot; alt=&quot;picture import-PDF2&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Below is example of an imported PDF&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;500&quot; src=&quot;https://raw.githubusercontent.com/collanotewiki/collanotewiki.github.io/main/images/FAQimage/import-pdf3.PNG&quot; alt=&quot;picture import-PDF3&quot; /&gt; &lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Answer: Step 1: In the Start Screen &amp;gt; Right “Menu” setting &amp;gt; Import PDF</summary></entry></feed>
+&lt;strong&gt;We don’t store your private files on any server, so if you don’t want to lose your local notes, BACKUP those BEFORE deleting/re-installing CollaNote&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="FAQ" /><summary type="html">Short Answer: If you didn’t backup the files before deleting/reinstalling Collanote, then NO, there is no known method to get those notes back.</summary></entry></feed>

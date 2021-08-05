@@ -14,15 +14,11 @@ lang: de
 **Answer:**  
 Before you uninstall or re-install  CollaNote or Updating a big update in  CollaNote, make sure that you **BACKUP** all of your precious notes to iCloud before proceeding with anything else.  
 
-<!--more-->  
-
 The steps below shows how to backup your precious CollaNotes' notes and/or PDF in a simple way.  
 - **Step 1**: In the begin screen, long press the notes/pdf/folder that you want to backup. The organize mode will turn on
 
-
-
 <p align="center"> <img width="500" src="/images/FAQimage/backup-1.jpg" alt="backup-1.jpg"></p>
-
+<!--more-->
 - **Step 2**: Press the **"move"** option
 
 - **Step 3**: Choose the destination folder "iCloud folders" and press "select current folder".
