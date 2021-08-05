@@ -2,15 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://collanotewiki.github.io/vi/pages/Hinh-de-thuong/0</loc>
-<lastmod>2021-08-05T02:50:13+09:00</lastmod>
+<lastmod>2021-08-05T17:23:19+09:00</lastmod>
 </url>
 <url>
 <loc>https://collanotewiki.github.io/en/pages/FAQ/0</loc>
-<lastmod>2021-08-05T02:50:13+09:00</lastmod>
+<lastmod>2021-08-05T17:23:19+09:00</lastmod>
 </url>
 <url>
 <loc>https://collanotewiki.github.io/en/pages/Release-Notes/0</loc>
-<lastmod>2021-08-05T02:50:13+09:00</lastmod>
+<lastmod>2021-08-05T17:23:19+09:00</lastmod>
+</url>
+<url>
+<loc>https://collanotewiki.github.io/vi/pages/PhienBan/CollaNote-PhienBan1v1v13</loc>
+<lastmod>2021-07-16T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://collanotewiki.github.io/vi/pages/Hinh-De-Thuong/Beautiful-Characters-HindAimail</loc>
@@ -73,6 +77,10 @@
 <lastmod>2021-08-04T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>https://collanotewiki.github.io/vi/pages/PhienBan/CollaNote-PhienBan1v2</loc>
+<lastmod>2021-08-05T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>https://collanotewiki.github.io/en/about/</loc>
 </url>
 <url>
@@ -80,7 +88,7 @@
 </url>
 <url>
 <loc>https://collanotewiki.github.io/en/base.html</loc>
-<lastmod>2021-08-05T02:07:35+09:00</lastmod>
+<lastmod>2021-08-05T09:55:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://collanotewiki.github.io/en/google3a5de5bc8eb17a00.html</loc>
