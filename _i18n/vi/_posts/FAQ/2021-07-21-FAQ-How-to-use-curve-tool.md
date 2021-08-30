@@ -5,7 +5,7 @@ version: 1.1.13
 youtubeId: Nwbzvi6e-KA
 namespace: FAQ-How-to-use-curve-tool
 permalink: /pages/FAQ/How-to-use-curve-tool
-permalink_vi: /pages/Hoi-Dap/Cach-su-dung-cong-cu-duong-cong-curve-tool
+permalink_vi:
 categories: FAQ
 lang: vi
 ---

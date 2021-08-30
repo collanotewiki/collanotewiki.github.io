@@ -5,7 +5,6 @@ version: 1.1.13
 youtubeId: Boa4PKuwHHQ
 namespace: FAQ-How-to-use-lasso-tool
 permalink: /pages/FAQ/How-to-use-lasso-tool
-permalink_vi: /pages/Hoi-Dap/Cach-su-dung-cong-cu-Lasso-Cong-cu-chinh-sua-nhom
 category: FAQ
 lang: ja
 ---

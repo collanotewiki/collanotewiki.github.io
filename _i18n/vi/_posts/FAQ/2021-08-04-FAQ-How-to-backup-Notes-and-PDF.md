@@ -5,7 +5,7 @@ version: 1.1.13
 youtubeId: pyCsEayaWkc
 namespace: FAQ-How-to-backup-Notes-and-PDF
 permalink: /pages/FAQ/How-to-backup-Notes-and-PDF
-permalink_vi: /pages/Hoi-Dap/Cach-backup-ghi-chu-va-PDF
+permalink_vi:
 categories: FAQ
 lang: vi
 ---

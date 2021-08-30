@@ -5,7 +5,6 @@ version: 1.2.0
 youtubeId: 7ay33XKO438
 namespace: ReleaseNotes-CollaNote-Version1v2
 permalink: /pages/ReleaseNotes/CollaNote-Version1v2
-permalink_vi: /pages/PhienBan/CollaNote-PhienBan1v2
 category: ReleaseNotes
 lang: ja
 ---

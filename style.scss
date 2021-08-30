@@ -38,12 +38,12 @@ body {
 .container4navi {
   background: #D0D0D0;
   margin:  auto;
-  max-width: 1920x;
+  max-width: 1920px;
   padding: 0px 10px 0px 110px;
   width: 100%;
   @include mobile {
     margin:  auto;
-    max-width: 1920x;
+    max-width: 1920px;
     padding: 0px 10px 0px 10px;
     width: 100%;
   }
@@ -422,26 +422,6 @@ table.frame4images td {
   }
 
 //Dropdown - For language switcher
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-//Dropdown - For language switcher
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-    z-index: 1;
-
-  }
-//Dropdown - For language switcher
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
   /* style for the css menu dropdown container */
   .menuLang {
       position:relative;
@@ -455,7 +435,7 @@ table.frame4images td {
   .menuLang:before {
       content: "\2630 \a0 Languages";
   }
-
+  //when the dropdown appear, disable the menu button to prevent double open, allow tap-again-to-close
   .menuLang:focus { pointer-events:none; }
 
   /* If :focus detected the dropdown menu is displayed by making it visible */
@@ -478,20 +458,60 @@ table.frame4images td {
       transition: visibility 1s;
   }
 
-  /* style the links in the dropdown */
-  .menu-dropdown a {
-      background:transparent;
-      border:none;
-      outline:0;
+  //Style For Search
+    .menuSearch {
+        position:absolute;
+        display:inline-block;
+        margin:0;
+        outline:0;
+        text-align:left;
+        line-height: 100%;
+    }
+
+    label.SearchText:before{
+      content: "\2315";
+      font-size: 30px;
+      vertical-align: 0%;
+      visibility: visible;
+      opacity:1;
+    }
+
+    form.Search {
+      position:relative;
+      display: block;
+      width: 100%;
+      margin:0;
+    }
+
+    input.SearchText{
+      border: 0;
+      opacity: 0;
+      line-height: 30px;
+      width: 0%;
+    }
+    input.SearchText:focus{
       display:block;
-      font-family: $helveticaNeue;
-      color:$darkerGray;
-      text-decoration:none;
-      width:160px;
-      padding:5px;
-  }
+      width: 100%;
+      padding: 0px 0px 0px 0px;
+      border: 1px solid black;
+      opacity: 1;
+    }
 
+    // input.SearchText:focus label.SearchText { opacity:0; visibility:hidden; }
+    // input.SearchText:focus .SearchCollapse { opacity:1; visibility:visible; }
+    // .SearchCollapse:focus{ opacity:0; visibility:hidden; }
+    // .SearchCollapse:focus label.SearchText{ opacity:1; visibility:visible; }
 
+    // .SearchCollapse{
+    //   display: inline-block;
+    //   visibility: visible;
+    //   opacity:1;
+    // }
+    // .SearchCollapse:before{
+    //   content: "\2315 Collapse";
+    //   font-size: 30px;
+    //   vertical-align: 0%;
+    // }
 
 //Pagination  - for the number to navigating when too many pages
   .pagination {
@@ -523,5 +543,7 @@ footer {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+
+
 @import "highlights";
 @import "svg-icons";

@@ -5,7 +5,7 @@ version: 1.1.13
 youtubeId:
 namespace: ReleaseNotes-CollaNote-Version1v1v13
 permalink: /pages/ReleaseNotes/CollaNote-Version1v1v13
-permalink_vi: /pages/Phien-Ban/CollaNote-PhienBan1v1v13
+permalink_vi:
 category: ReleaseNotes
 lang: vi
 ---
