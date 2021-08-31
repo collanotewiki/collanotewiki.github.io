@@ -90,7 +90,7 @@ exclude:
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "vi", "de", "ja"]
 language_default: 'en'
-exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404.html","sitemap.xml","search.html","googlef3231185fbb8f54f.html","robots.txt","favicon.ico","favicon-16x16.png","favicon-32x32.png","mstile-150x150.png","site.webmanifest","android-chrome-192x192.png","android-chrome-512x512.png","apple-touch-icon.png","browserconfig.xml"]
+exclude_from_localizations: ["assets", "CNAME", "data", "docs", "images","404.html","sitemap.xml","googlef3231185fbb8f54f.html","robots.txt","favicon.ico","favicon-16x16.png","favicon-32x32.png","mstile-150x150.png","site.webmanifest","android-chrome-192x192.png","android-chrome-512x512.png","apple-touch-icon.png","browserconfig.xml"]
 default_locale_in_subfolder: true
 languageNames:
   vi: Vietnamese
