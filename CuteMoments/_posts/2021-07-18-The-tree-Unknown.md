@@ -4,9 +4,9 @@ title: CuteMoments.2021-07-18-The-tree-Unknown
 version: 1.1.13
 namespace: The-tree-Unknown
 permalink: /pages/Cute-Moments/The-tree-Unknown
-permalink_vi: /pages/Hinh-De-Thuong/The-tree-Unknown
+permalink_vi: /pages/Cute-Moments/The-tree-Unknown
 cutemomentsPath: /images/CuteMomentsimage/The-Tree.jpeg
-cutemomentsArtName:  The Tree
+cutemomentsArtName: The Tree
 cutemomentsArtist: Unknown
 ---
 

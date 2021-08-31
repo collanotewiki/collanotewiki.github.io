@@ -4,7 +4,7 @@ title: CuteMoments.2021-07-18-Beautiful-Onion-Ajotono
 version: 1.1.13
 namespace: Beautiful-Onion-Ajotono
 permalink: /pages/Cute-Moments/Beautiful-Onion-Ajotono
-permalink_vi: /pages/Hinh-De-Thuong/Beautiful-Onion-Ajotono
+permalink_vi: /pages/Cute-Moments/Beautiful-Onion-Ajotono
 cutemomentsPath: /images/CuteMomentsimage/Onion-Garlic-Ajotono.jpeg
 cutemomentsArtName: Beautiful Onion
 cutemomentsArtist: Ajotono

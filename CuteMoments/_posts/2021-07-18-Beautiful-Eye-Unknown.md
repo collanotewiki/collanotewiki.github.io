@@ -4,7 +4,7 @@ title: CuteMoments.2021-07-18-Beautiful-Eye-Unknown
 version: 1.1.13
 namespace: Beautiful-Eye
 permalink: /pages/Cute-Moments/Beautiful-Eye-Unknown
-permalink_vi: /pages/Hinh-De-Thuong/Beautiful-Eye-Unknown
+permalink_vi: /pages/Cute-Moments/Beautiful-Eye-Unknown
 cutemomentsPath: /images/CuteMomentsimage/beautiful-eye.jpeg
 cutemomentsArtName: Beautiful-Eye
 cutemomentsArtist: Unknown

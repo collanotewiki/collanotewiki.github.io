@@ -87,6 +87,9 @@ exclude:
   - README.md
   - CNAME
 
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "vi", "de", "ja"]
 language_default: 'en'
@@ -98,8 +101,6 @@ languageNames:
   de: Deutsch
   ja: Japanese
 
-plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Define collection for pages, or else, the subfolder inside page will not be renedered
 collections:
